@@ -5,12 +5,12 @@ import { env } from "@/lib/env.mjs";
 const dbCredentials =
   env.NODE_ENV === "development"
     ? {
-        url: env.DATABASE_URL!,
-      }
+      url: env.DATABASE_URL,
+    }
     : {
-        url: env.DATABASE_URL!,
-        authToken: env.TURSO_AUTH_TOKEN,
-      };
+      url: env.TURSO_DATABASE_URL,
+      authToken: env.TURSO_AUTH_TOKEN,
+    };
 
 export default defineConfig({
   out: "./lib/db/migrations",

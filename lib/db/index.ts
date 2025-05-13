@@ -10,7 +10,7 @@ const config =
       url: env.DATABASE_URL,
     }
     : {
-      url: env.TURSO_DATABASE_URL!,
+      url: env.TURSO_DATABASE_URL,
       authToken: env.TURSO_AUTH_TOKEN,
     };
 export const sqlite = createClient(config);
