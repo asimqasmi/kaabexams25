@@ -1,0 +1,7682 @@
+[
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 25320120021,
+    "name_en": "Ahmed Jasim Mohammed Al Balushi",
+    "name_ar": "أحمد جاسم محمد البلوشي",
+    "id": 1
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224620130024,
+    "name_en": "Ahmed Hassan Salim Al Fazari",
+    "name_ar": "أحمد حسن سالم الفزاري",
+    "id": 2
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 27020120080,
+    "name_en": "Ahmed Hussein Ahmed Al-Fazari",
+    "name_ar": "أحمد حسين احمد الفزاري",
+    "id": 3
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224520150052,
+    "name_en": "Ahmed Hamed Musabah Al Kindi",
+    "name_ar": "أحمد حمد مصبح الكندي",
+    "id": 4
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224020140090,
+    "name_en": "Ahmed Humaid Salim Al Shahi",
+    "name_ar": "أحمد حميد سالم الشحي",
+    "id": 5
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224220150187,
+    "name_en": "Ahmed Khalfan Mohammed Al Ma'Mari",
+    "name_ar": "أحمد خلفان محمد المعمري",
+    "id": 6
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224520160051,
+    "name_en": "Ahmed Khamis Rashid Humaid Al Breiki",
+    "name_ar": "أحمد خميس راشد حميد البريكي",
+    "id": 7
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160055,
+    "name_en": "Ahmed Khamis Said Khamis Al Breiki",
+    "name_ar": "أحمد خميس سعيد خميس البريكي",
+    "id": 8
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160092,
+    "name_en": "Ahmed Khamis Said Mohammed Al Breiki",
+    "name_ar": "أحمد خميس سعيد محمد البريكي",
+    "id": 9
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224220140079,
+    "name_en": "Ahmed Rashid Saif Alsaidi",
+    "name_ar": "أحمد راشد سيف السعيدي",
+    "id": 10
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 221820140039,
+    "name_en": "Ahmed Rashid Mohammed Al Shidi",
+    "name_ar": "أحمد راشد محمد الشيدي",
+    "id": 11
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224020130110,
+    "name_en": "Ahmed Salim Khamis Al Shihi",
+    "name_ar": "أحمد سالم خميس الشحي",
+    "id": 12
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224020140055,
+    "name_en": "Ahmed Salim Sulaiman Al Breiki",
+    "name_ar": "أحمد سالم سليمان البريكي",
+    "id": 13
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 610720130103,
+    "name_en": "Ahmed Salim Shinain Al Breiki",
+    "name_ar": "أحمد سالم شنين البريكي",
+    "id": 14
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224320140017,
+    "name_en": "Ahmed Salim Farhan Al Abdul Salam",
+    "name_ar": "أحمد سالم فرحان آل عبدالسلام",
+    "id": 15
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 28720120155,
+    "name_en": "Ahmed Said Hassan Al Breiki",
+    "name_ar": "أحمد سعيد حسن البريكي",
+    "id": 16
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224520150020,
+    "name_en": "Ahmed Said Salim Said Al-Masaoudi",
+    "name_ar": "أحمد سعيد سالم سعيد المسعودي",
+    "id": 17
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520150090,
+    "name_en": "Ahmed Sultan Ahmed Mohammed Al-Fazari",
+    "name_ar": "أحمد سلطان أحمد محمد الفزاري",
+    "id": 18
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224220130026,
+    "name_en": "Ahmed Saif Hamood Al Saidi",
+    "name_ar": "أحمد سيف حمود السعيدي",
+    "id": 19
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 216220130009,
+    "name_en": "Ahmed Shabib Amer Al Mashrafi",
+    "name_ar": "أحمد شبيب عامر المشرفي",
+    "id": 20
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 20920140080,
+    "name_en": "Ahmed Talib Said Zahir Al-Saaidi",
+    "name_ar": "أحمد طالب سعيد زاهر السعيدي",
+    "id": 21
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224620140052,
+    "name_en": "Ahmed Talal Ahmed Al-Alawi",
+    "name_ar": "أحمد طلال أحمد العلوي",
+    "id": 22
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224620160166,
+    "name_en": "Ahmed 'Amur Mubarak Said Al Hamadani",
+    "name_ar": "أحمد عامر مبارك سعيد الحمداني",
+    "id": 23
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224220150063,
+    "name_en": "Ahmed 'Abdullah Khamis Al Waheibi",
+    "name_ar": "أحمد عبدالله خميس الوهيبي",
+    "id": 24
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160141,
+    "name_en": "Ahmed 'Abdullah Said Mohammed Al Fazari",
+    "name_ar": "أحمد عبدالله سعيد محمد الفزاري",
+    "id": 25
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160053,
+    "name_en": "Ahmed Adnan Abdallah Ali Al Breiki",
+    "name_ar": "أحمد عدنان عبدالله علي البريكي",
+    "id": 26
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 28720140013,
+    "name_en": "Ahmed Ali Salmeen Hassan Al-Fazari",
+    "name_ar": "أحمد علي سالمين حسن الفزاري",
+    "id": 27
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224020140127,
+    "name_en": "Ahmed Ali Said Al Breiki",
+    "name_ar": "أحمد علي سعيد البريكي",
+    "id": 28
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150098,
+    "name_en": "Ahmed Ali Mohammed Obaid Al Shidi",
+    "name_ar": "أحمد علي محمد عبيد الشيدي",
+    "id": 29
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 20920140008,
+    "name_en": "Ahmed Ali Marhoun Saif Al Mamari",
+    "name_ar": "أحمد علي مرهون سيف المعمري",
+    "id": 30
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224620140020,
+    "name_en": "Ahmed Omar Abdullah Al Ali",
+    "name_ar": "أحمد عمر عبدالله العلي",
+    "id": 31
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224520150005,
+    "name_en": "Ahmed Mubarak Khamis Humaid Al Breiki",
+    "name_ar": "أحمد مبارك خميس حميد البريكي",
+    "id": 32
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160006,
+    "name_en": "Ahmed Mohammed Juma Shinain Al Fazari",
+    "name_ar": "أحمد محمد جمعه شنين الفزاري",
+    "id": 33
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160064,
+    "name_en": "Ahmed Mohammed Hassan Saleh Al Breiki",
+    "name_ar": "أحمد محمد حسن صالح البريكي",
+    "id": 34
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 221820130108,
+    "name_en": "Ahmed Mohammed Suhail Al Khnasouri",
+    "name_ar": "أحمد محمد سهيل الخنصوري",
+    "id": 35
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 20920140063,
+    "name_en": "Ahmed Mohamed Abdullah Mohamed Al Saidi",
+    "name_ar": "أحمد محمد عبدالله محمد السعيدي",
+    "id": 36
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 223720130025,
+    "name_en": "Ahmed Mohammed Marhoun Al Mamari",
+    "name_ar": "أحمد محمد مرهون المعمري",
+    "id": 37
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224620140047,
+    "name_en": "Ahmed Mohammed Musabah Al Fazari",
+    "name_ar": "أحمد محمد مصبح الفزاري",
+    "id": 38
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224620140002,
+    "name_en": "Ahmed Moosa Ahmed Al Hamadani",
+    "name_ar": "أحمد موسى أحمد الحمداني",
+    "id": 39
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224620140086,
+    "name_en": "Ahmed Nasser Tarash Al Sinani",
+    "name_ar": "أحمد ناصر طارش السناني",
+    "id": 40
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160149,
+    "name_en": "Ahmed Nasser Ali Nasser Al Furaisi",
+    "name_ar": "أحمد ناصر علي ناصر الفريسي",
+    "id": 41
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 25320150010,
+    "name_en": "Ahmed Nabil Salim Sbeit Al Khaldi",
+    "name_ar": "أحمد نبيل سالم سبيت الخالدي",
+    "id": 42
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224520160086,
+    "name_en": "Ahmed Hilal Salim Sulaiman Al Fazari",
+    "name_ar": "أحمد هلال سالم سليمان الفزاري",
+    "id": 43
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 28820140029,
+    "name_en": "Ahmed Younis Saif Al-Mamari",
+    "name_ar": "أحمد يونس سيف المعمري",
+    "id": 44
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 20920140064,
+    "name_en": "Adam Juma Obaid Khamis Al Breiki",
+    "name_ar": "آدم جمعه عبيد خميس البريكي",
+    "id": 45
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224520150064,
+    "name_en": "Adam Dawoud Majid Said Al-Mahrouqi",
+    "name_ar": "آدم داؤد ماجد سعيد المحروقي",
+    "id": 46
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224020150082,
+    "name_en": "Adam Salim Al 'Abd Al Farsi",
+    "name_ar": "آدم سالم العبد الفارسي",
+    "id": 47
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 221820160137,
+    "name_en": "Adham Faisal Khalifa 'Abdullah Al Balushi",
+    "name_ar": "أدهم فيصل خليفه عبدالله البلوشي",
+    "id": 48
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 20920120108,
+    "name_en": "Osama Naseer Mohammed Al Abdul Salam",
+    "name_ar": "أسامة ناصر محمد آل عبدالسلام",
+    "id": 49
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 20920130115,
+    "name_en": "Osama Ahmed Rashid Al-Zeidi",
+    "name_ar": "أسامه أحمد راشد الزيدي",
+    "id": 50
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224620130028,
+    "name_en": "Osama Sulaiman Ali Al Ali",
+    "name_ar": "أسامه سليمان علي العلي",
+    "id": 51
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620150117,
+    "name_en": "Ishaq Ali Khamis Ali Al Shaidi",
+    "name_ar": "إسحاق علي خميس علي الشيدي",
+    "id": 52
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 66120120214,
+    "name_en": "Asaad Badar Ali Mohammed Al Ali",
+    "name_ar": "أسعد بدر علي محمد العلي",
+    "id": 53
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224620150093,
+    "name_en": "Asaad Said 'Abdullah Mattar Al Badi",
+    "name_ar": "أسعد سعيد عبدالله مطر البادي",
+    "id": 54
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224520140014,
+    "name_en": "Amjad Said Rashid Al Mahairazi",
+    "name_ar": "أمجد سعيد راشد المحيرزي",
+    "id": 55
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520140087,
+    "name_en": "Amjad Amur Salim Al Fazari",
+    "name_ar": "أمجد عامر سالم الفزاري",
+    "id": 56
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160007,
+    "name_en": "Amjad Mohammed Khalfan 'Abdallah Al 'Abdul Sallam",
+    "name_ar": "أمجد محمد خلفان عبدالله آل عبدالسلام",
+    "id": 57
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224320150091,
+    "name_en": "Ameer Haitham Ali Murad Al Balushi",
+    "name_ar": "أمير هيثم علي مراد البلوشي",
+    "id": 58
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 221820160002,
+    "name_en": "Ameen Hussein Dhahi Mohammed Al-Haddad",
+    "name_ar": "أمين حسين ضاحي محمد الحداد",
+    "id": 59
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224320160035,
+    "name_en": "Anas Juma Abdullah Ali Al Bulushi",
+    "name_ar": "أنس جمعه عبدالله علي البلوشي",
+    "id": 60
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020150034,
+    "name_en": "Anas Khalifa Salim Ali Al Breiki",
+    "name_ar": "أنس خليفة سالم علي البريكي",
+    "id": 61
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224520140043,
+    "name_en": "Anas Ali Rashid Al Breiki",
+    "name_ar": "أنس علي راشد البريكي",
+    "id": 62
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224520150072,
+    "name_en": "Anas Mohammed Salim 'Abdullah Al Breiki",
+    "name_ar": "أنس محمد سالم عبدالله البريكي",
+    "id": 63
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224520140005,
+    "name_en": "Ayman Salim Rashid Al Breiki",
+    "name_ar": "أيمن سالم راشد البريكي",
+    "id": 64
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224020160040,
+    "name_en": "Ayoub Rashid Salim Mohammed Al Quraini",
+    "name_ar": "أيوب راشد سالم محمد القريني",
+    "id": 65
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224520150068,
+    "name_en": "Ayoob Abdullah Khalfan Al Buraiki",
+    "name_ar": "أيوب عبدالله خلفان البريكي",
+    "id": 66
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160018,
+    "name_en": "Ayoob Yousuf Mubarak Hassan Al Breiki",
+    "name_ar": "أيوب يوسف مبارك حسن البريكي",
+    "id": 67
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 20720130146,
+    "name_en": "Ibrahim Ahmed Salim Al-Badi",
+    "name_ar": "ابراهيم أحمد سالم البادي",
+    "id": 68
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224220130073,
+    "name_en": "Ibraheem Ahmed Said Aalabdulsallam",
+    "name_ar": "ابراهيم أحمد سعيد آل عبدالسلام",
+    "id": 69
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224620130071,
+    "name_en": "Ibrahim Ahmed Saif Al Balushi",
+    "name_ar": "ابراهيم احمد سيف البلوشي",
+    "id": 70
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 223720150073,
+    "name_en": "Ibraheim Rashid 'Abdullah Rashid Al-Mamari",
+    "name_ar": "ابراهيم راشد عبدالله راشد المعمري",
+    "id": 71
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620130009,
+    "name_en": "Ibrahim Saleh Hamed Al Balushi",
+    "name_ar": "ابراهيم صالح حمد البلوشي",
+    "id": 72
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224220160115,
+    "name_en": "Ibrahim Ghabish Mubarak Mas'Oud Al 'Abdul Sallam",
+    "name_ar": "ابراهيم غابش مبارك مسعود ال عبدالسلام",
+    "id": 73
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160110,
+    "name_en": "Ibrahim Mohammed Juma Salim Al Shihhi",
+    "name_ar": "ابراهيم محمد جمعه سالم الشحي",
+    "id": 74
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020150112,
+    "name_en": "Ibrahim Hilal Harib Ali Al-Breiki",
+    "name_ar": "ابراهيم هلال حارب علي البريكي",
+    "id": 75
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 220420130123,
+    "name_en": "Ahmed Juma Khamis Al Breiki",
+    "name_ar": "احمد جمعه خميس البريكي",
+    "id": 76
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224520160104,
+    "name_en": "Ahmed Khalid Abdullah Nasser Al Breiki",
+    "name_ar": "احمد خالد عبدالله ناصر البريكي",
+    "id": 77
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224220130119,
+    "name_en": "Ahmed Khamis Suidan Al Abdul Sallam",
+    "name_ar": "احمد خميس سويدان ال عبدالسلام",
+    "id": 78
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 221820130061,
+    "name_en": "Ahmed Othman Mohammed Al Shidi",
+    "name_ar": "احمد عثمان محمد الشيدي",
+    "id": 79
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 21620120111,
+    "name_en": "Ahmed Majid Saif Al Shidi",
+    "name_ar": "احمد ماجد سيف الشيدي",
+    "id": 80
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224520140076,
+    "name_en": "Ahmed Mohammed Khamis Al Breiki",
+    "name_ar": "احمد محمد خميس البريكى",
+    "id": 81
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 223720150130,
+    "name_en": "Osamah Salim Abdallah Alfazari",
+    "name_ar": "اسامه سالم عبدالله الفزاري",
+    "id": 82
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 28820140052,
+    "name_en": "Ishaq Salim Juma Al Breiki",
+    "name_ar": "اسحاق سالم جمعه البريكي",
+    "id": 83
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150105,
+    "name_en": "Ishaq Said Marhoun Rashid Al Qari",
+    "name_ar": "اسحاق سعيد مرهون راشد القري",
+    "id": 84
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224520120015,
+    "name_en": "Isehaq Amur Salim Al Fazari",
+    "name_ar": "اسحاق عامر سالم الفزاري",
+    "id": 85
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224020100352,
+    "name_en": "Ishaq Mohammed Abdullah Al Breiki",
+    "name_ar": "اسحاق محمد عبدالله البريكي",
+    "id": 86
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 223920160142,
+    "name_en": "Iasmail Ibrahim Mohammed Khamis Al Kahali",
+    "name_ar": "اسماعيل ابراهيم محمد خميس الكحالي",
+    "id": 87
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 220420110111,
+    "name_en": "Ismail Rashid Mubarak Al Khaldi",
+    "name_ar": "اسماعيل راشد مبارك الخالدي",
+    "id": 88
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224220130070,
+    "name_en": "Al Azhar Salim Khalaf Al-Wahaibi",
+    "name_ar": "الأزهر سالم خلف الوهيبي",
+    "id": 89
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 28820160085,
+    "name_en": "Alazhar Qais Darwish Yousuf Al Balushi",
+    "name_ar": "الأزهر قيس درويش يوسف البلوشي",
+    "id": 90
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224020130008,
+    "name_en": "Al Azhar Mohamed Khalfan Al-Ghamlasi",
+    "name_ar": "الأزهر محمد خلفان الغملاسي",
+    "id": 91
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 711220110095,
+    "name_en": "Al Azwar Badar Ali Mohammed Al Ali",
+    "name_ar": "الأزور بدر علي محمد العلي",
+    "id": 92
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224220130060,
+    "name_en": "Alazur Said Salim Al Saeedi",
+    "name_ar": "الأزور سعيد سالم السعيدي",
+    "id": 93
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224020140101,
+    "name_en": "Al Ameer Khald Abdallah Salim Al Breiki",
+    "name_ar": "الأمير خالد عبدالله سالم البريكي",
+    "id": 94
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020150136,
+    "name_en": "Al Ameen Ahmed Salim Ali Al Na'Abi",
+    "name_ar": "الأمين احمد سالم علي الناعبي",
+    "id": 95
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 29620140019,
+    "name_en": "Alayhm Ahmed Khalfan Mohammed Al-Mahairzi",
+    "name_ar": "الأيهم أحمد خلفان محمد المحيرزي",
+    "id": 96
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 221820140061,
+    "name_en": "Alayham Badar Saif Al Fazari",
+    "name_ar": "الأيهم بدر سيف الفزاري",
+    "id": 97
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224220140118,
+    "name_en": "Alayham Khalfan Salim Al-Aweini",
+    "name_ar": "الأيهم خلفان سالم العويني",
+    "id": 98
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160111,
+    "name_en": "Al Ayham Khalfan Said Salim Al-Breiki",
+    "name_ar": "الأيهم خلفان سعيد سالم البريكي",
+    "id": 99
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 20920120112,
+    "name_en": "Al Ayiham Khalifa Subaa Alsaidi",
+    "name_ar": "الأيهم خليفه سباع السعيدي",
+    "id": 100
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140126,
+    "name_en": "Al Ayhm Khamis Said Al Breiki",
+    "name_ar": "الأيهم خميس سعيد البريكي",
+    "id": 101
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 24720130062,
+    "name_en": "Alayham Said Juma Al Breiki",
+    "name_ar": "الأيهم سعيد جمعه البريكي",
+    "id": 102
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 23520120120,
+    "name_en": "Alayham Abdullah Humaid Al Saidi",
+    "name_ar": "الأيهم عبدالله حميد السعيدي",
+    "id": 103
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224020160079,
+    "name_en": "Al Ayham 'Abdullah Said Rashid Al-Breiki",
+    "name_ar": "الأيهم عبدالله سعيد راشد البريكي",
+    "id": 104
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224220140088,
+    "name_en": "Al Ayham Ali Saleh Al Saidi",
+    "name_ar": "الأيهم علي صالح السعيدي",
+    "id": 105
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160017,
+    "name_en": "Al Ayham Mubarak Khalfan 'Abdallah Al 'Abdul Salaam",
+    "name_ar": "الأيهم مبارك خلفان عبدالله آل عبدالسلام",
+    "id": 106
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 20920120056,
+    "name_en": "Al Amir Ali Saleh Al Saidi",
+    "name_ar": "الامير علي صالح السعيدي",
+    "id": 107
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 20920120125,
+    "name_en": "Alayhm Talal Rashid Alsaidi",
+    "name_ar": "الايهم طلال راشد السعيدي",
+    "id": 108
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020140027,
+    "name_en": "Albasheq Saleh Khalifa Al Breiki",
+    "name_ar": "الباشق صالح خليفه البريكي",
+    "id": 109
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224220160150,
+    "name_en": "Al Baraa Badar Abdullah Mohamed Al-Jabri",
+    "name_ar": "البراء بدر عبدالله محمد الجابري",
+    "id": 110
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140096,
+    "name_en": "Al Baraa Khalid Salim Al Breiki",
+    "name_ar": "البراء خالد سالم البريكي",
+    "id": 111
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224520140049,
+    "name_en": "Albaraa Khalid Abdullah Al Breiki",
+    "name_ar": "البراء خالد عبدالله البريكي",
+    "id": 112
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224020130025,
+    "name_en": "Al Bara Abdullah Saleh Al Breiki",
+    "name_ar": "البراء عبدالله صالح البريكي",
+    "id": 113
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224220150155,
+    "name_en": "Albaraa 'Abdullah Mohammed Majid Al Breiki",
+    "name_ar": "البراء عبدالله محمد ماجد البريكي",
+    "id": 114
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224220160120,
+    "name_en": "Al-Jaser Mohammed Salim Saif Alsa'Idi",
+    "name_ar": "الجاسر محمد سالم سيف السعيدي",
+    "id": 115
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 223420160002,
+    "name_en": "Al Julanda Mohammed Nasser Khalaf Al Ma'Mari",
+    "name_ar": "الجلندى محمد ناصر خلف المعمري",
+    "id": 116
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224020160032,
+    "name_en": "Al Harith Khalid Mohammed Khalfan Al Breiki",
+    "name_ar": "الحارث خالد محمد خلفان البريكي",
+    "id": 117
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520150082,
+    "name_en": "Alhareth Yahya Rashid Mohammed Al Breiki",
+    "name_ar": "الحارث يحيى راشد محمد البريكي",
+    "id": 118
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224620140099,
+    "name_en": "Alhasan Hussein Said Al Abdul Salam",
+    "name_ar": "الحسن حسين سعيد آل عبدالسلام",
+    "id": 119
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150066,
+    "name_en": "Al Hassan Ali Hassan Khamis Al Braiki",
+    "name_ar": "الحسن علي حسن خميس البريكي",
+    "id": 120
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 28720120090,
+    "name_en": "Alhassan Ali Said Al Breiki",
+    "name_ar": "الحسن علي سعيد البريكي",
+    "id": 121
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020130047,
+    "name_en": "Alhussain Salim Mohammed Al Breiki",
+    "name_ar": "الحسين سالم محمد البريكي",
+    "id": 122
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620140077,
+    "name_en": "Al Hussain Ali Hassan Al Fazari",
+    "name_ar": "الحسين علي حسن الفزاري",
+    "id": 123
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 16020130098,
+    "name_en": "Al Hussain Ali Said Al Hinai",
+    "name_ar": "الحسين علي سعيد الهنائي",
+    "id": 124
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 28720130033,
+    "name_en": "Al Husain Ali Said Hassan Al Breiki",
+    "name_ar": "الحسين علي سعيد حسن البريكي",
+    "id": 125
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 27520140002,
+    "name_en": "Al Hawari Nasser Said Salim Al Saidi",
+    "name_ar": "الحواري ناصر سعيد سالم السعيدي",
+    "id": 126
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224620140105,
+    "name_en": "Alkhatab Khamis Khadoum Al Fazari",
+    "name_ar": "الخطاب خميس خادوم الفزاري",
+    "id": 127
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 29320130017,
+    "name_en": "Alrashid Ali Khalfan Al Breiki",
+    "name_ar": "الراشد علي خلفان البريكي",
+    "id": 128
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224020150079,
+    "name_en": "Al Faisal Ahmed Salim Ali Al Na'Abi",
+    "name_ar": "الفيصل احمد سالم علي الناعبي",
+    "id": 129
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224320150076,
+    "name_en": "Alqasem Said Ali Khalfan Al Marzouqi",
+    "name_ar": "القاسم سعيد علي خلفان المرزوقي",
+    "id": 130
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020120051,
+    "name_en": "Alqasim Musabah Said Al Breiki",
+    "name_ar": "القاسم مصبح سعيد البريكي",
+    "id": 131
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 111020110008,
+    "name_en": "Al Qaisar Ibrahim Nasser Al Battashi",
+    "name_ar": "القيصر ابراهيم ناصر البطاشي",
+    "id": 132
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224020140068,
+    "name_en": "Alqayser Said Khalfan Al Breiki",
+    "name_ar": "القيصر سعيد خلفان البريكي",
+    "id": 133
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160074,
+    "name_en": "Al Muathar Abdulla Ali Abdulla Al Hamdani",
+    "name_ar": "المؤثر عبدالله علي عبدالله الحمداني",
+    "id": 134
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 25320130124,
+    "name_en": "Almamoon Khalifa 'Obaid Al Mahairazi",
+    "name_ar": "المأمون خليفه عبيد المحيرزي",
+    "id": 135
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 28820120057,
+    "name_en": "Almuayad Samiei Abdullah Al-Jabri",
+    "name_ar": "المؤيد سامي عبدالله الجابري",
+    "id": 136
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224020160015,
+    "name_en": "Al Muaiyad Said Salim Khalfan Al 'Abdul Salam",
+    "name_ar": "المؤيد سعيد سالم خلفان آل عبدالسلام",
+    "id": 137
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224220140160,
+    "name_en": "Almuayd Talal Said Al Saidi",
+    "name_ar": "المؤيد طلال سعيد السعيدي",
+    "id": 138
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 28720160020,
+    "name_en": "Al Muthana Mohammed Khalfan Shinain Al Buraiki",
+    "name_ar": "المثنى محمد خلفان شنين البريكي",
+    "id": 139
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224620130085,
+    "name_en": "Almutaz Hamed Saud Al Sinani",
+    "name_ar": "المعتز حمد سعود السناني",
+    "id": 140
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150066,
+    "name_en": "Al Mu'Taz Salim Abdallah Ali Al Breiki",
+    "name_ar": "المعتز سالم عبدالله علي البريكي",
+    "id": 141
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 25320160013,
+    "name_en": "Almoutasem Khalid Mohammed Hassan Al Balushi",
+    "name_ar": "المعتصم خالد محمد حسن البلوشي",
+    "id": 142
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224020150001,
+    "name_en": "Almotasem Rashid Abdallah Salim Al Buraiki",
+    "name_ar": "المعتصم راشد عبدالله سالم البريكي",
+    "id": 143
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224220150025,
+    "name_en": "Almutasam Salim Hamdan Alsaaidi",
+    "name_ar": "المعتصم سالم حمدان السعيدي",
+    "id": 144
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 21620150025,
+    "name_en": "Al Muatasam 'Amur Majid Juma Al Mas'Oudi",
+    "name_ar": "المعتصم عامر ماجد جمعه المسعودي",
+    "id": 145
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224320150141,
+    "name_en": "Almutasem Abdullah Ali Mohammed Al Marzouqi",
+    "name_ar": "المعتصم عبدالله علي محمد المرزوقي",
+    "id": 146
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224220140162,
+    "name_en": "Almuatasem Ali Abdullah Al Nakhili",
+    "name_ar": "المعتصم علي عبدالله النخيلي",
+    "id": 147
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 27020130066,
+    "name_en": "Almuatasem Naji Murad Al Zadjali",
+    "name_ar": "المعتصم ناجي مراد الزدجالي",
+    "id": 148
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224520140004,
+    "name_en": "Almuqdad Sultan Abdullah Al Hamdani",
+    "name_ar": "المقداد سلطان عبدالله الحمداني",
+    "id": 149
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160127,
+    "name_en": "Al Mulham Khamis Said Ali Al Kindi",
+    "name_ar": "الملهم خميس سعيد علي الكندي",
+    "id": 150
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 28720140026,
+    "name_en": "Al Muntaser Said Salim Juma Al Breiki",
+    "name_ar": "المنتصر سعيد سالم جمعه البريكي",
+    "id": 151
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 21620130011,
+    "name_en": "Al Mondhir Ahmed Mohammed Al-Masaoudi",
+    "name_ar": "المنذر أحمد محمد المسعودي",
+    "id": 152
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160137,
+    "name_en": "Al Munther Ahmed Mohammed Rashid Al-Badi",
+    "name_ar": "المنذر أحمد محمد راشد البادي",
+    "id": 153
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 221820120061,
+    "name_en": "Almundher Badar Abdul Majeed Al Zadjali",
+    "name_ar": "المنذر بدر عبدالمجيد الزدجالي",
+    "id": 154
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224320150015,
+    "name_en": "Al Mundhar Hussein Juma Khaif Albusaidi",
+    "name_ar": "المنذر حسين جمعه خائف البوسعيدي",
+    "id": 155
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160106,
+    "name_en": "Al Munther Abdullah Said Mohammed Al Fazari",
+    "name_ar": "المنذر عبدالله سعيد محمد الفزاري",
+    "id": 156
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224520130023,
+    "name_en": "Almundher Mohammed Ali Al Breiki",
+    "name_ar": "المنذر محمد علي البريكي",
+    "id": 157
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224020160101,
+    "name_en": "Al Mohaleb Hilal Mubarak Marhoun Al Ma'Mari",
+    "name_ar": "المهلب هلال مبارك مرهون المعمري",
+    "id": 158
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 24720120071,
+    "name_en": "Almuhanad Badar Abdullah Al-Jabri",
+    "name_ar": "المهند بدر عبدالله الجابري",
+    "id": 159
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 223920130073,
+    "name_en": "Al Muhannad Jamal Mohammed Alsaidi",
+    "name_ar": "المهند جمال محمد السعيدي",
+    "id": 160
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 21620120131,
+    "name_en": "Almohanad Khalifa Khamis Al Abdul Salam",
+    "name_ar": "المهند خليفه خميس آل عبدالسلام",
+    "id": 161
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224020130035,
+    "name_en": "Al Mohib Sulaiman Obaid Al Breiki",
+    "name_ar": "المهيب سليمان عبيد البريكي",
+    "id": 162
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140070,
+    "name_en": "Almaytham Said Khamis Al Breiki",
+    "name_ar": "الميثم سعيد خميس البريكي",
+    "id": 163
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 221820150152,
+    "name_en": "Alhaitam Badar Saif Hamed Al Fazari",
+    "name_ar": "الهيثم بدر سيف حمد الفزاري",
+    "id": 164
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224620150031,
+    "name_en": "Alhaitham Hussein Said Rashid Al 'Abdul Salam",
+    "name_ar": "الهيثم حسين سعيد راشد آل عبدالسلام",
+    "id": 165
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224020150095,
+    "name_en": "Al Haitham Mohammed Juma 'Abdullah Al Breiki",
+    "name_ar": "الهيثم محمد جمعه عبدالله البريكي",
+    "id": 166
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160048,
+    "name_en": "Al Waleed Khalid Hassan Shinain Al Mahairazi",
+    "name_ar": "الوليد خالد حسن شنين المحيرزي",
+    "id": 167
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 29720130002,
+    "name_en": "Alwaleed Khalid Hamdan Saleem Al Saaidi",
+    "name_ar": "الوليد خالد حمدان سليم السعيدي",
+    "id": 168
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224020160108,
+    "name_en": "Alwaleed Khalid Salim Mohammed Al Breiki",
+    "name_ar": "الوليد خالد سالم محمد البريكي",
+    "id": 169
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 28820130030,
+    "name_en": "Al Waleed Khalid Said Al Saidi",
+    "name_ar": "الوليد خالد سعيد السعيدي",
+    "id": 170
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 24720130007,
+    "name_en": "Alwaleed Khalid Said Khamis Al-Suwaidi",
+    "name_ar": "الوليد خالد سعيد خميس السويدي",
+    "id": 171
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 20920160013,
+    "name_en": "Alwaleed Khalid Ali Abdullah Al Saidi",
+    "name_ar": "الوليد خالد علي عبدالله السعيدي",
+    "id": 172
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224020130034,
+    "name_en": "Alwaleed Khalid Mubarak Al Breiki",
+    "name_ar": "الوليد خالد مبارك البريكي",
+    "id": 173
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 28720120142,
+    "name_en": "Alwaleed Khalid Mohammed Al Breiki",
+    "name_ar": "الوليد خالد محمد البريكي",
+    "id": 174
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 25320150027,
+    "name_en": "Alwaleed Khalid Mohammed Hassan Al Balushi",
+    "name_ar": "الوليد خالد محمد حسن البلوشي",
+    "id": 175
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150003,
+    "name_en": "Al Waleed Khalfan Said Al-Breiki",
+    "name_ar": "الوليد خلفان سعيد البريكي",
+    "id": 176
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224320160014,
+    "name_en": "Al Walid Talal Salim Rashid Al 'Alawi",
+    "name_ar": "الوليد طلال سالم راشد العلوي",
+    "id": 177
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224220130029,
+    "name_en": "Alwalid Talal Said Al Saidi",
+    "name_ar": "الوليد طلال سعيد السعيدي",
+    "id": 178
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620180166,
+    "name_en": "Alyass Ait  Brahim",
+    "name_ar": "الياس ايت  ابراهيم",
+    "id": 179
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224620160069,
+    "name_en": "Elyas Yaqoub Humaid Amur Al Saidi",
+    "name_ar": "الياس يعقوب حميد عامر السعيدي",
+    "id": 180
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150104,
+    "name_en": "Al Yazeed Ahmed 'Obaid Said Al Habsi",
+    "name_ar": "اليزيد احمد عبيد سعيد الحبسي",
+    "id": 181
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 220420140090,
+    "name_en": "Aliqathan Mohammed Ali Al Khnasouri",
+    "name_ar": "اليقضان محمد علي الخنصوري",
+    "id": 182
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 11420100066,
+    "name_en": "Al Yaqthan Ali Said Al Hinai",
+    "name_ar": "اليقظان علي سعيد الهنائي",
+    "id": 183
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160022,
+    "name_en": "Eyad Ali Saif Mohammed Al Breiki",
+    "name_ar": "اياد علي سيف محمد البريكي",
+    "id": 184
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620140010,
+    "name_en": "Eyad Ali Mohammed Al Mahairazi",
+    "name_ar": "اياد علي محمد المحيرزي",
+    "id": 185
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 27520150013,
+    "name_en": "Eyad Mohammed Ali 'Abdullah Al-Mahrezi",
+    "name_ar": "اياد محمد علي عبدالله المحرزي",
+    "id": 186
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 220720220001,
+    "name_en": "Ayaham Salman Altorah Altorah",
+    "name_ar": "ايهم سلمان اسماعيل الطوره",
+    "id": 187
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 215320110121,
+    "name_en": "Ayob Eid Ambar Al Balushi",
+    "name_ar": "ايوب عيد عمبر البلوشي",
+    "id": 188
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 221220220001,
+    "name_en": "Bavly Rafik Gamil Aziz Andraws",
+    "name_ar": "بافلي رفيق جميل عزيز اندراوس",
+    "id": 189
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224520140032,
+    "name_en": "Badar Hamed Saif Al Kindi",
+    "name_ar": "بدر حمد سيف الكندي",
+    "id": 190
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 57920130001,
+    "name_en": "Bader Khalid Khalfan Al Breiki",
+    "name_ar": "بدر خالد خلفان البريكي",
+    "id": 191
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224320150170,
+    "name_en": "Bader Said Khamis Al Rawahi",
+    "name_ar": "بدر سعيد خميس الرواحي",
+    "id": 192
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224620110036,
+    "name_en": "Bader Mohammed Rashid Al Breiki",
+    "name_ar": "بدر محمد راشد البريكي",
+    "id": 193
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 20920150035,
+    "name_en": "Bash'Shar Rashid Khalifa Mubarak Al Ma'Mari",
+    "name_ar": "بشار راشد خليفه مبارك المعمري",
+    "id": 194
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150064,
+    "name_en": "Bashar Abdallah Rashid Khalfan Al Badi",
+    "name_ar": "بشار عبدالله راشد خلفان البادي",
+    "id": 195
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 15720150016,
+    "name_en": "Bashar Abdullah Mohamed Ali Al Mahrizi",
+    "name_ar": "بشار عبدالله محمد علي المحرزي",
+    "id": 196
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224320120042,
+    "name_en": "Bashar Ali Humaid Al Balushi",
+    "name_ar": "بشار علي حميد البلوشي",
+    "id": 197
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224520160072,
+    "name_en": "Bashar Issa Rashid Abdullah Almasaoudi",
+    "name_ar": "بشار عيسى راشد عبدالله المسعودي",
+    "id": 198
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160130,
+    "name_en": "Bashar Nasser Salim Ali Al Nakhili",
+    "name_ar": "بشار ناصر سالم علي النخيلي",
+    "id": 199
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224320130056,
+    "name_en": "Bilal Juma Abdullah Al Bulushi",
+    "name_ar": "بلال جمعه عبدالله البلوشي",
+    "id": 200
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224020140022,
+    "name_en": "Balarab Sultan Juma Al Breiki",
+    "name_ar": "بلعرب سلطان جمعه البريكي",
+    "id": 201
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620130048,
+    "name_en": "Turki Ahmed Hilal Al Jabri",
+    "name_ar": "تركي أحمد هلال الجابري",
+    "id": 202
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 27520130018,
+    "name_en": "Turki Badar Nasser Al Marikhi",
+    "name_ar": "تركي بدر ناصر المريخي",
+    "id": 203
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160059,
+    "name_en": "Turki Hamed 'Obaid Hamed Al Fazari",
+    "name_ar": "تركي حمد عبيد حمد الفزاري",
+    "id": 204
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224520150054,
+    "name_en": "Turki Salim Abdullah Salim Al Hamadani",
+    "name_ar": "تركي سالم عبدالله سالم الحمداني",
+    "id": 205
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224620160075,
+    "name_en": "Turki Said Majid Juma Al Masoudi",
+    "name_ar": "تركي سعيد ماجد جمعه المسعودي",
+    "id": 206
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224520140036,
+    "name_en": "Turki Faisal Khalfan Al Breiki",
+    "name_ar": "تركي فيصل خلفان البريكي",
+    "id": 207
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 21620150049,
+    "name_en": "Turki Faisal Said Mubarak Al Fazari",
+    "name_ar": "تركي فيصل سعيد مبارك الفزاري",
+    "id": 208
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150083,
+    "name_en": "Turki Faisal Mubarak Harib Al Breiki",
+    "name_ar": "تركي فيصل مبارك حارب البريكي",
+    "id": 209
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 29920150011,
+    "name_en": "Turki Faisal Mohammed Mubarak Al Ma'Mari",
+    "name_ar": "تركي فيصل محمد مبارك المعمري",
+    "id": 210
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 20920140009,
+    "name_en": "Turki Mataab Rashid Sulaiman Alsaidi",
+    "name_ar": "تركي متعب راشد سليمان السعيدي",
+    "id": 211
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224520140010,
+    "name_en": "Turki Mahmood Rashid Al Fazari",
+    "name_ar": "تركي محمود راشد الفزاري",
+    "id": 212
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224320160049,
+    "name_en": "Turki Haitham Ali Murad Al Balushi",
+    "name_ar": "تركي هيثم علي مراد البلوشي",
+    "id": 213
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224620140005,
+    "name_en": "Taqi Mubarak Harib Al Fazari",
+    "name_ar": "تقي مبارك حارب الفزاري",
+    "id": 214
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 20920140056,
+    "name_en": "Tammam Salim Mohammed Al Badi",
+    "name_ar": "تمام سالم محمد البادي",
+    "id": 215
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224520160028,
+    "name_en": "Tamim Jasim 'Abdullah Juma Al Mas'Oudi",
+    "name_ar": "تميم جاسم عبدالله جمعه المسعودي",
+    "id": 216
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 24720120069,
+    "name_en": "Tameem Said Abdullah Al Fazari",
+    "name_ar": "تميم سعيد عبدالله الفزاري",
+    "id": 217
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224620160079,
+    "name_en": "Tamim 'Abdullah Salim Mohammed Al Quraini",
+    "name_ar": "تميم عبدالله سالم محمد القريني",
+    "id": 218
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224520150058,
+    "name_en": "Tamim Ali Salim Ali Al Breiki",
+    "name_ar": "تميم علي سالم علي البريكي",
+    "id": 219
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224220110150,
+    "name_en": "Jaber Khamis Said Al Quraini",
+    "name_ar": "جابر خميس سعيد القريني",
+    "id": 220
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 220420150119,
+    "name_en": "Jasim Mohammed Khalfan Rashid Al Badi",
+    "name_ar": "جاسم محمد خلفان راشد البادي",
+    "id": 221
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224020130068,
+    "name_en": "Jasem Mohammed Musabah Al Breiki",
+    "name_ar": "جاسم محمد مصبح البريكي",
+    "id": 222
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 24720120067,
+    "name_en": "Jabran Khalifa Bilal Al-Qutaiti",
+    "name_ar": "جبران خليفه بلال القطيطي",
+    "id": 223
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 21620160024,
+    "name_en": "Jalal Dawood Abdul Karim 'Abdallah Al Sarour",
+    "name_ar": "جلال داود عبدالكريم عبدالله آل سرور",
+    "id": 224
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224520160074,
+    "name_en": "Jeyfer Yousuf Ali Humaid Al Balushi",
+    "name_ar": "جيفر يوسف علي حميد البلوشي",
+    "id": 225
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 29620140031,
+    "name_en": "Hatem Abdullah Khalfan Al Kindi",
+    "name_ar": "حاتم عبدالله خلفان الكندي",
+    "id": 226
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224520160041,
+    "name_en": "Hatem Ali Mubarak Khamis Al Fazari",
+    "name_ar": "حاتم علي مبارك خميس الفزاري",
+    "id": 227
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224220150196,
+    "name_en": "Hamid Naser Salim Khalaf Alsa'Idi",
+    "name_ar": "حامد نصر سالم خلف السعيدي",
+    "id": 228
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 23520140062,
+    "name_en": "Huthaifa Khalid Salim Khalfan Al Badi",
+    "name_ar": "حذيفة خالد سالم خلفان البادي",
+    "id": 229
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224520130051,
+    "name_en": "Huthayfa Khamis Said Al-Breiki",
+    "name_ar": "حذيفة خميس سعيد البريكي",
+    "id": 230
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620150045,
+    "name_en": "Hadhifa Sulaiman Rashid Khamis Al Fazari",
+    "name_ar": "حذيفة سليمان راشد خميس الفزاري",
+    "id": 231
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224020130106,
+    "name_en": "Hussam Nasser Salim Al Nakhili",
+    "name_ar": "حسام ناصر سالم النخيلي",
+    "id": 232
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 221820160140,
+    "name_en": "Hassan 'Adil Hassan Ali Al 'Ajmi",
+    "name_ar": "حسن عادل حسن علي العجمي",
+    "id": 233
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224520160121,
+    "name_en": "Hassan 'Abdullah Mohammed Hassan Al Fazari",
+    "name_ar": "حسن عبدالله محمد حسن الفزاري",
+    "id": 234
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224520130034,
+    "name_en": "Hassan Mohammed Hassan Al Breiki",
+    "name_ar": "حسن محمد حسن البريكي",
+    "id": 235
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150085,
+    "name_en": "Hassan Mohammed Hassan Mohammed Al Balushi",
+    "name_ar": "حسن محمد حسن محمد البلوشي",
+    "id": 236
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224320120050,
+    "name_en": "Husain Talal Salim Al Alawi",
+    "name_ar": "حسين طلال سالم العلوي",
+    "id": 237
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224620150037,
+    "name_en": "Husain Ali Juma Ali Al Fazari",
+    "name_ar": "حسين علي جمعه علي الفزاري",
+    "id": 238
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160135,
+    "name_en": "Hussain Mohammed Ali Mohammed Alfazari",
+    "name_ar": "حسين محمد علي محمد الفزاري",
+    "id": 239
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224220130131,
+    "name_en": "Hamed Ahmed Ali Almamari",
+    "name_ar": "حمد أحمد علي المعمري",
+    "id": 240
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224220150061,
+    "name_en": "Hamed Hamood Hamed Al-Badi",
+    "name_ar": "حمد حمود حمد البادي",
+    "id": 241
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150063,
+    "name_en": "Hamed Khalid Hamed Obaid Alfazari",
+    "name_ar": "حمد خالد حمد عبيد الفزاري",
+    "id": 242
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 28720140024,
+    "name_en": "Hamad Khalfan Rashid Al Quraini",
+    "name_ar": "حمد خلفان راشد القريني",
+    "id": 243
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224620120089,
+    "name_en": "Hamed Rashid Mohammed Al Mahairazi",
+    "name_ar": "حمد راشد محمد المحيرزي",
+    "id": 244
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 28720160002,
+    "name_en": "Hamed Salim Hamed Said Al Sinani",
+    "name_ar": "حمد سالم حمد سعيد السناني",
+    "id": 245
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160023,
+    "name_en": "Hamed Salim Khamis Suweilem Al Fazari",
+    "name_ar": "حمد سالم خميس سويلم الفزاري",
+    "id": 246
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224020150043,
+    "name_en": "Hamed Salim Said Mohammed Al Breiki",
+    "name_ar": "حمد سالم سعيد محمد البريكي",
+    "id": 247
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224320160090,
+    "name_en": "Hamad Salim Mohammed Salim Al 'Alawi",
+    "name_ar": "حمد سالم محمد سالم العلوي",
+    "id": 248
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224520130071,
+    "name_en": "Hamed Salim Masoud Al Fazari",
+    "name_ar": "حمد سالم مسعود الفزاري",
+    "id": 249
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 24720150008,
+    "name_en": "Hamed Abdallah Hamed Abdallah Almamari",
+    "name_ar": "حمد عبدالله حمد عبدالله المعمري",
+    "id": 250
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 25320160037,
+    "name_en": "Hamed Azan Hamed Salim Al-Breiki",
+    "name_ar": "حمد عزان حمد سالم البريكي",
+    "id": 251
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224520150047,
+    "name_en": "Hamed Ali Khamis Said Al Fazari",
+    "name_ar": "حمد علي خميس سعيد الفزاري",
+    "id": 252
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150038,
+    "name_en": "Hamad Ali 'Amur Shinain Al 'Ouweini",
+    "name_ar": "حمد علي عامر شنين العويني",
+    "id": 253
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520150042,
+    "name_en": "Hamed Ali Mohammed Al Breiki",
+    "name_ar": "حمد علي محمد البريكي",
+    "id": 254
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150053,
+    "name_en": "Hamad 'Issa Gharib Juma Al Fazari",
+    "name_ar": "حمد عيسى غريب جمعه الفزاري",
+    "id": 255
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 21620140006,
+    "name_en": "Hamed Malik Hamed Al Masoudi",
+    "name_ar": "حمد مالك حمد المسعودي",
+    "id": 256
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520150044,
+    "name_en": "Hamad Mohammed Thunai Al Fazari",
+    "name_ar": "حمد محمد ثني الفزاري",
+    "id": 257
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150060,
+    "name_en": "Hamed Mohammed Khamis Muslem Al Badi",
+    "name_ar": "حمد محمد خميس مسلم البادي",
+    "id": 258
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 712320150013,
+    "name_en": "Hamdan Sulaiman Rashid Sulaiman Al Shamsi",
+    "name_ar": "حمدان سليمان راشد سليمان الشامسي",
+    "id": 259
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 29620140035,
+    "name_en": "Hamdan Abdullah Hamdan Abdullah Al Breiki",
+    "name_ar": "حمدان عبدالله حمدان عبدالله البريكي",
+    "id": 260
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224620140095,
+    "name_en": "Hamza Ahmed Rashid Almuharzi",
+    "name_ar": "حمزة أحمد راشد المحيرزي",
+    "id": 261
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224520160124,
+    "name_en": "Hamza Talib Juma Al Mas Al Fazari",
+    "name_ar": "حمزة طالب جمعه الماس الفزاري",
+    "id": 262
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224520140047,
+    "name_en": "Hamza Ahmed Abdullah Al Breiki",
+    "name_ar": "حمزه احمد عبدالله البريكي",
+    "id": 263
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224520140031,
+    "name_en": "Hamza Mohammed Ali Al-Mahrezi",
+    "name_ar": "حمزه محمد علي المحرزي",
+    "id": 264
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 20920120118,
+    "name_en": "Hamood Ali Hamood Al-Saaidi",
+    "name_ar": "حمود علي حمود السعيدي",
+    "id": 265
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 20920150009,
+    "name_en": "Hamood Ali Hamood Abdulla Al Saidi",
+    "name_ar": "حمود علي حمود عبدالله السعيدي",
+    "id": 266
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520160097,
+    "name_en": "Hamood Mohammed Thunai Rashid Al Fazari",
+    "name_ar": "حمود محمد ثني راشد الفزاري",
+    "id": 267
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 28820140048,
+    "name_en": "Hamood Naif Hamood Al Mamari",
+    "name_ar": "حمود نايف حمود المعمري",
+    "id": 268
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224020130105,
+    "name_en": "Hamood Hilal Hamed Al Breiki",
+    "name_ar": "حمود هلال حمد البريكي",
+    "id": 269
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224620130014,
+    "name_en": "Humaid Hamed Said Al-Amairi",
+    "name_ar": "حميد حمد سعيد العميري",
+    "id": 270
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160002,
+    "name_en": "Humaid Said Salim Humaid Al Khuwaldi",
+    "name_ar": "حميد سعيد سالم حميد الخوالدي",
+    "id": 271
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020150059,
+    "name_en": "Humaid Ali Humaid Ali Al Mamari",
+    "name_ar": "حميد علي حميد علي المعمري",
+    "id": 272
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224020160056,
+    "name_en": "Humaid Mohammed Sultan Khamis Al Breiki",
+    "name_ar": "حميد محمد سلطان خميس البريكي",
+    "id": 273
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 28820140041,
+    "name_en": "Khalid Al-Waleed 'Abdallah Al-Mamari",
+    "name_ar": "خالد الوليد عبدالله المعمري",
+    "id": 274
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224620130025,
+    "name_en": "Khald Hassan Salim Al Fazari",
+    "name_ar": "خالد حسن سالم الفزاري",
+    "id": 275
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 220420160091,
+    "name_en": "Khalid Hamed Mohammed Juma Al Muraiki",
+    "name_ar": "خالد حمد محمد جمعه المريكي",
+    "id": 276
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 221820130094,
+    "name_en": "Khalid Rashid Obaid Al Badi",
+    "name_ar": "خالد راشد عبيد البادي",
+    "id": 277
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 221820140081,
+    "name_en": "Khalid Salim Ahmed Al Mamari",
+    "name_ar": "خالد سالم احمد المعمري",
+    "id": 278
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224020140129,
+    "name_en": "Khalid Said Salim Al Quraini",
+    "name_ar": "خالد سعيد سالم القريني",
+    "id": 279
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224620150059,
+    "name_en": "Khalid Sulaiman Ali Abdullah Al-Kindi",
+    "name_ar": "خالد سليمان علي عبدالله الكندي",
+    "id": 280
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 20920140031,
+    "name_en": "Khalid Sinan Saleh Mohammed Al Sadi",
+    "name_ar": "خالد سنان صالح محمد السعدي",
+    "id": 281
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 20920130015,
+    "name_en": "Khalid Saleh Saif Al Saidi",
+    "name_ar": "خالد صالح سيف السعيدي",
+    "id": 282
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 82820130023,
+    "name_en": "Khalid Talib Abdullah Al Arimi",
+    "name_ar": "خالد طالب عبدالله العريمي",
+    "id": 283
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520150023,
+    "name_en": "Khalid Ali Khamis Al-Breiki",
+    "name_ar": "خالد علي خميس البريكي",
+    "id": 284
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224620120080,
+    "name_en": "Khaled Ali Salim Al Fazari",
+    "name_ar": "خالد علي سالم الفزاري",
+    "id": 285
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 240620150020,
+    "name_en": "Khalid Faisal Khalifa Alsa'Idi",
+    "name_ar": "خالد فيصل خليفه السعيدي",
+    "id": 286
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224220150124,
+    "name_en": "Khalid Mohammed Hassan Al Breiki",
+    "name_ar": "خالد محمد حسن البريكي",
+    "id": 287
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 25920120040,
+    "name_en": "Khalid Mohammed Khamis Al Mahairazi",
+    "name_ar": "خالد محمد خميس المحيرزي",
+    "id": 288
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224220150199,
+    "name_en": "Khalid Waleed Salim Said Al Waheibi",
+    "name_ar": "خالد وليد سالم سعيد الوهيبي",
+    "id": 289
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 223920140149,
+    "name_en": "Khalid Waleed Said Al Shahi",
+    "name_ar": "خالد وليد سعيد الشحي",
+    "id": 290
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 36020150046,
+    "name_en": "Khalid Waleed Mubarak Al-Mujaini",
+    "name_ar": "خالد وليد مبارك المجيني",
+    "id": 291
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160109,
+    "name_en": "Khalid Yousuf 'Abdullah Salmeen Al Shidi",
+    "name_ar": "خالد يوسف عبدالله سالمين الشيدي",
+    "id": 292
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224020160057,
+    "name_en": "Khalfan Sulaiman Khalfan Sulaiman Al Breiki",
+    "name_ar": "خلفان سليمان خلفان سليمان البريكي",
+    "id": 293
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520150043,
+    "name_en": "Khalfan 'Abdullah Khalfan Gharib Al Fazari",
+    "name_ar": "خلفان عبدالله خلفان غريب الفزاري",
+    "id": 294
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224520150016,
+    "name_en": "Khalfan 'Abdallah Khalfan Mohammed Al-Breiki",
+    "name_ar": "خلفان عبدالله خلفان محمد البريكي",
+    "id": 295
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224020140011,
+    "name_en": "Khalfan Ali Khalfan Al Breiki",
+    "name_ar": "خلفان علي خلفان البريكي",
+    "id": 296
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224020130037,
+    "name_en": "Khlfan Ali Salim Al-Breiki",
+    "name_ar": "خلفان علي سالم البريكي",
+    "id": 297
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224020150106,
+    "name_en": "Khalfan Mubarak Khalfan Mubarak Al Breiki",
+    "name_ar": "خلفان مبارك خلفان مبارك البريكي",
+    "id": 298
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224620150034,
+    "name_en": "Khalfan Mohammed Khalfan 'Abdullah Al Hamdani",
+    "name_ar": "خلفان محمد خلفان عبدالله الحمداني",
+    "id": 299
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150096,
+    "name_en": "Khalifa Ahmed Khalifa Saif Al-Alawi",
+    "name_ar": "خليفه أحمد خليفه سيف العلوي",
+    "id": 300
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224020160065,
+    "name_en": "Khalifa Ahmed 'Abdallah Salim Al-Breiki",
+    "name_ar": "خليفه أحمد عبدالله سالم البريكي",
+    "id": 301
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 20920160039,
+    "name_en": "Khalifa Said Khalifa Hamed Al Nofali",
+    "name_ar": "خليفه سعيد خليفه حمد النوفلي",
+    "id": 302
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224020150016,
+    "name_en": "Khalifa Said Abdullah Al Badi",
+    "name_ar": "خليفه سعيد عبدالله البادي",
+    "id": 303
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224520120019,
+    "name_en": "Khamis Abdullah Khamis Al Busaidi",
+    "name_ar": "خميس عبدالله خميس البوسعيدي",
+    "id": 304
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 28720120148,
+    "name_en": "Khamis Faisal Khamis Al-Breiki",
+    "name_ar": "خميس فيصل خميس البريكي",
+    "id": 305
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224220140069,
+    "name_en": "Khamis Mohammed Khamis Al Breiki",
+    "name_ar": "خميس محمد خميس البريكي",
+    "id": 306
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224620140014,
+    "name_en": "Khamis Mohammed Khamis Al Fazari",
+    "name_ar": "خميس محمد خميس الفزاري",
+    "id": 307
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224620140028,
+    "name_en": "Dawood Sulaiman Ali Al-Kindi",
+    "name_ar": "داود سليمان علي الكندي",
+    "id": 308
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160080,
+    "name_en": "Daod Sulaiman Mohammed Rashid Al Mamari",
+    "name_ar": "داود سليمان محمد راشد المعمري",
+    "id": 309
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224520130001,
+    "name_en": "Dhiyab Ibrahim Rashid Al Fazari",
+    "name_ar": "ذياب ابراهيم راشد الفزاري",
+    "id": 310
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160143,
+    "name_en": "Raed Khalaf Rashid Khalaf Alsa'Idi",
+    "name_ar": "رائد خلف راشد خلف السعيدي",
+    "id": 311
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224520130059,
+    "name_en": "Raed Yousuf Salim Al Fazari",
+    "name_ar": "رائد يوسف سالم الفزاري",
+    "id": 312
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224020140072,
+    "name_en": "Rashid Ahmed Rashid Al-Mamari",
+    "name_ar": "راشد أحمد راشد المعمري",
+    "id": 313
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160018,
+    "name_en": "Rashid Ahmed Rashid Salmeen Almuharzi",
+    "name_ar": "راشد أحمد راشد سالمين المحيرزي",
+    "id": 314
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 223020130027,
+    "name_en": "Rashid Ahmed Rashid Al Breiki",
+    "name_ar": "راشد احمد راشد البريكي",
+    "id": 315
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520150055,
+    "name_en": "Rashid Khalid Rashid Mohammed Al Fazari",
+    "name_ar": "راشد خالد راشد محمد الفزاري",
+    "id": 316
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160070,
+    "name_en": "Rashid Khalfan Rashid Mubarak Al Quraini",
+    "name_ar": "راشد خلفان راشد مبارك القريني",
+    "id": 317
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224020120043,
+    "name_en": "Rashed Khamis Ali Al Badi",
+    "name_ar": "راشد خميس علي البادي",
+    "id": 318
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224620130029,
+    "name_en": "Rashid Salim Rashid Al Fazari",
+    "name_ar": "راشد سالم راشد الفزاري",
+    "id": 319
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224220140141,
+    "name_en": "Rashid Sulaiman Rashid Al-Saaidi",
+    "name_ar": "راشد سليمان راشد السعيدي",
+    "id": 320
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224220130151,
+    "name_en": "Rashed Abdullah Rashid Al Braiki",
+    "name_ar": "راشد عبدالله راشد البريكي",
+    "id": 321
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 28720130022,
+    "name_en": "Rashid Abdallah Rashid Abdallah Alfazari",
+    "name_ar": "راشد عبدالله راشد عبدالله الفزاري",
+    "id": 322
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224220160141,
+    "name_en": "Rashid 'Abdullah Ali Said Alsa'Idi",
+    "name_ar": "راشد عبدالله علي سعيد السعيدي",
+    "id": 323
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 20920120062,
+    "name_en": "Rashid Ali Humaid Al Mamari",
+    "name_ar": "راشد علي حميد المعمري",
+    "id": 324
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224220160006,
+    "name_en": "Rashid Ali Rashid Said Al Saidi",
+    "name_ar": "راشد علي راشد سعيد السعيدي",
+    "id": 325
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224020140091,
+    "name_en": "Rashid Ali Salim Al Breiki",
+    "name_ar": "راشد علي سالم البريكي",
+    "id": 326
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 20920160012,
+    "name_en": "Rashid Mohammed Rashid Khamis Al Hindasi",
+    "name_ar": "راشد محمد راشد خميس الهنداسي",
+    "id": 327
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160102,
+    "name_en": "Rashid Mohammed Rashid Said Al-Senani",
+    "name_ar": "راشد محمد راشد سعيد السناني",
+    "id": 328
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620150014,
+    "name_en": "Rashid Mohammed Rashid Mohammed Al Fazari",
+    "name_ar": "راشد محمد راشد محمد الفزاري",
+    "id": 329
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 20920130057,
+    "name_en": "Rashid Yousuf Rashid Abdullah Al Mamari",
+    "name_ar": "راشد يوسف راشد عبدالله المعمري",
+    "id": 330
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224020130045,
+    "name_en": "Rami Jamal Salim Said Al Breiki",
+    "name_ar": "رامي جمال سالم سعيد البريكي",
+    "id": 331
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 220220220001,
+    "name_en": "Remon Rafik Aziz Andraws Aziz Andraws",
+    "name_ar": "ريمون رفيق جميل عزيز اندراوس",
+    "id": 332
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160023,
+    "name_en": "Zahir Waleed Zahir Ali Al Saidi",
+    "name_ar": "زاهر وليد زاهر علي السعيدي",
+    "id": 333
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224220150090,
+    "name_en": "Zayed Hamdan Zayid Khalifa Al Mamari",
+    "name_ar": "زايد حمدان زايد خليفه المعمري",
+    "id": 334
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224620160067,
+    "name_en": "Zakarya Isma'Il Salmeen Salim Al Hamdani",
+    "name_ar": "زكريا اسماعيل سالمين سالم الحمداني",
+    "id": 335
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224020130066,
+    "name_en": "Zakrya Said Salim Al Shahi",
+    "name_ar": "زكريا سعيد سالم الشحي",
+    "id": 336
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 711920100007,
+    "name_en": "Zekariya Sulaiman Fadhil Al Fazari",
+    "name_ar": "زكريا سليمان فاضل الفزاري",
+    "id": 337
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224620100147,
+    "name_en": "Zakariya 'Abdallah Mohammed Al Sa'Idi",
+    "name_ar": "زكريا عبدالله محمد السعيدي",
+    "id": 338
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620120027,
+    "name_en": "Zakriya Ali Khamis Al Shaidi",
+    "name_ar": "زكريا علي خميس الشيدي",
+    "id": 339
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224220150099,
+    "name_en": "Zakarya Mohammed Rashid Saif Al Balushi",
+    "name_ar": "زكريا محمد راشد سيف البلوشي",
+    "id": 340
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020130021,
+    "name_en": "Zakrya Mohammed Abdullah Al Breiki",
+    "name_ar": "زكريا محمد عبدالله البريكي",
+    "id": 341
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224020160028,
+    "name_en": "Zakariya Musabah Said Salim Al Breiki",
+    "name_ar": "زكريا مصبح سعيد سالم البريكي",
+    "id": 342
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224620160060,
+    "name_en": "Zakariya Waheed 'Abdullah Khamis Al Kahali",
+    "name_ar": "زكريا وحيد عبدالله خميس الكحالي",
+    "id": 343
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224620150005,
+    "name_en": "Zakaria Yousuf Salim Rashid Al Saidi",
+    "name_ar": "زكريا يوسف سالم راشد السعيدي",
+    "id": 344
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224220160038,
+    "name_en": "Ziyad Ayman Saleh Said Alsa'Idi",
+    "name_ar": "زياد أيمن صالح سعيد السعيدي",
+    "id": 345
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160072,
+    "name_en": "Ziyad Hamid Humaid Shinain Al Qari",
+    "name_ar": "زياد حامد حميد شنين القري",
+    "id": 346
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224620110072,
+    "name_en": "Zeyad Salim Khamis Al Fazari",
+    "name_ar": "زياد سالم خميس الفزاري",
+    "id": 347
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224620110093,
+    "name_en": "Salem Ahmed Salim Al-Badi",
+    "name_ar": "سالم احمد سالم البادي",
+    "id": 348
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224520150007,
+    "name_en": "Salim Ahmed Salim Ali Al-Masaoudi",
+    "name_ar": "سالم احمد سالم علي المسعودي",
+    "id": 349
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150071,
+    "name_en": "Salim Juma Salim Said Al Breiki",
+    "name_ar": "سالم جمعه سالم سعيد البريكي",
+    "id": 350
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224520150086,
+    "name_en": "Salim Hamed Salim Mohammed Al Fazari",
+    "name_ar": "سالم حمد سالم محمد الفزاري",
+    "id": 351
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224220130013,
+    "name_en": "Salim Khalifa Yousuf Al Abdul Sallam",
+    "name_ar": "سالم خليفه يوسف ال عبدالسلام",
+    "id": 352
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140130,
+    "name_en": "Salim Khamis Salim Al-Breiki",
+    "name_ar": "سالم خميس سالم البريكي",
+    "id": 353
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224520130050,
+    "name_en": "Salim Surur Salim Al Fazari",
+    "name_ar": "سالم سرور سالم الفزاري",
+    "id": 354
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224020140123,
+    "name_en": "Salim Said Salim Al Buraiki",
+    "name_ar": "سالم سعيد سالم البريكي",
+    "id": 355
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224520140007,
+    "name_en": "Salim Said Salim Al-Masaoudi",
+    "name_ar": "سالم سعيد سالم المسعودي",
+    "id": 356
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620140011,
+    "name_en": "Salim Said Salim Al Masoudi",
+    "name_ar": "سالم سعيد سالم المسعودي",
+    "id": 357
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224620100419,
+    "name_en": "Salem Said Mohammed Al Quraini",
+    "name_ar": "سالم سعيد محمد القريني",
+    "id": 358
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020150141,
+    "name_en": "Salim Sultan Salim Al Breiki",
+    "name_ar": "سالم سلطان سالم البريكي",
+    "id": 359
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224020150116,
+    "name_en": "Salem Sulaiman Ali Al Breiki",
+    "name_ar": "سالم سليمان علي البريكي",
+    "id": 360
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224620140022,
+    "name_en": "Salim Talib Said Al Fazari",
+    "name_ar": "سالم طالب سعيد الفزاري",
+    "id": 361
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 242720140009,
+    "name_en": "Salim Abdullah Salim Alsaidi",
+    "name_ar": "سالم عبدالله سالم السعيدي",
+    "id": 362
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150045,
+    "name_en": "Salim 'Abdullah Said Musabah Al Breiki",
+    "name_ar": "سالم عبدالله سعيد مصبح البريكي",
+    "id": 363
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 28720130045,
+    "name_en": "Salim Ali Saleh Al Breiki",
+    "name_ar": "سالم علي صالح البريكي",
+    "id": 364
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224020120087,
+    "name_en": "Salim Mohammed Salim Al Breiki",
+    "name_ar": "سالم محمد سالم البريكي",
+    "id": 365
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 221820150088,
+    "name_en": "Salim Mohammed 'Abdullah Mohammed Al Breiki",
+    "name_ar": "سالم محمد عبدالله محمد البريكي",
+    "id": 366
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224620120116,
+    "name_en": "Salem Musabah Said Al Badi",
+    "name_ar": "سالم مصبح سعيد البادي",
+    "id": 367
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 29120120037,
+    "name_en": "Salem Nasser Salem Al Braiki",
+    "name_ar": "سالم ناصر سالم البريكي",
+    "id": 368
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020150015,
+    "name_en": "Salem Nasser Salim Al Nakhili",
+    "name_ar": "سالم ناصر سالم النخيلي",
+    "id": 369
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 26020130058,
+    "name_en": "Salim Nasser Salim Said Al Saidi",
+    "name_ar": "سالم ناصر سالم سعيد السعيدي",
+    "id": 370
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160106,
+    "name_en": "Salim Hilal Salim Humaid Al-Ghaithi",
+    "name_ar": "سالم هلال سالم حميد الغيثي",
+    "id": 371
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224520160022,
+    "name_en": "Salmeen Nasser Salmeen Hassan Almasoudi",
+    "name_ar": "سالمين ناصر سالمين حسن المسعودي",
+    "id": 372
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 20920140095,
+    "name_en": "Sami Mohammed Saif Rashid Al Badi",
+    "name_ar": "سامي محمد سيف راشد البادي",
+    "id": 373
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620140112,
+    "name_en": "Sami Hashil Ali Al Badi",
+    "name_ar": "سامي هاشل علي البادي",
+    "id": 374
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520150089,
+    "name_en": "Subaa Saif Salim Saif Al Fazari",
+    "name_ar": "سباع سيف سالم سيف الفزاري",
+    "id": 375
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224620140101,
+    "name_en": "Sabil Abdullah Sabil Al Balushi",
+    "name_ar": "سبيل عبدالله سبيل البلوشي",
+    "id": 376
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020150031,
+    "name_en": "Saad Fahad Suwaidan Saif Al Ma'Mari",
+    "name_ar": "سعد فهد سويدان سيف المعمري",
+    "id": 377
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 29620140016,
+    "name_en": "Soud Khalid Ali Hashil Al Kindi",
+    "name_ar": "سعود خالد علي هاشل الكندي",
+    "id": 378
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224520140015,
+    "name_en": "Saoud Khalifa Said Al-Maqbali",
+    "name_ar": "سعود خليفه سعيد المقبالي",
+    "id": 379
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224520140041,
+    "name_en": "Saud Salim Khamis Al Fazari",
+    "name_ar": "سعود سالم خميس الفزاري",
+    "id": 380
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224020150074,
+    "name_en": "Suad Salim Mubarak Hassan Al Breiki",
+    "name_ar": "سعود سالم مبارك حسن البريكي",
+    "id": 381
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620140085,
+    "name_en": "Saud Said Salim Al Fazari",
+    "name_ar": "سعود سعيد سالم الفزاري",
+    "id": 382
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160100,
+    "name_en": "Sauod Sultan Hashil Mubarak Al Ghamallasi",
+    "name_ar": "سعود سلطان هاشل مبارك الغملاسي",
+    "id": 383
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520150084,
+    "name_en": "Soud 'Abdul 'Aziz Hassan Al Fazari",
+    "name_ar": "سعود عبدالعزيز حسن الفزاري",
+    "id": 384
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224220130097,
+    "name_en": "Saood Abdul Aziz Rashid Al-Badi",
+    "name_ar": "سعود عبدالعزيز راشد البادي",
+    "id": 385
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620110135,
+    "name_en": "Sauod Muslem Suwaidan Al Badi",
+    "name_ar": "سعود مسلم سويدان البادي",
+    "id": 386
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 23420130016,
+    "name_en": "Saoud Nasser Salem Said Al Braiki",
+    "name_ar": "سعود ناصر سالم سعيد البريكي",
+    "id": 387
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 24720150021,
+    "name_en": "Saud Hilal Hamed Musabah Al Breiki",
+    "name_ar": "سعود هلال حمد مصبح البريكي",
+    "id": 388
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 29620140021,
+    "name_en": "Said Ahmed Said Gharib Al-Breiki",
+    "name_ar": "سعيد أحمد سعيد غريب البريكي",
+    "id": 389
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 29620140003,
+    "name_en": "Said Ahmed Mohammed Ali Al-Breiki",
+    "name_ar": "سعيد أحمد محمد علي البريكي",
+    "id": 390
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224520160056,
+    "name_en": "Said Ahmed 'Abdullah Said Al-Fazari",
+    "name_ar": "سعيد احمد عبدالله سعيد الفزاري",
+    "id": 391
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224520140080,
+    "name_en": "Said Hamed Mohammed Al Breiki",
+    "name_ar": "سعيد حمد محمد البريكي",
+    "id": 392
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224020150052,
+    "name_en": "Said Khalfan Said 'Abdullah Al Breiki",
+    "name_ar": "سعيد خلفان سعيد عبدالله البريكي",
+    "id": 393
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224520160099,
+    "name_en": "Said Khamis Mohammed Khamis Al Fazari",
+    "name_ar": "سعيد خميس محمد خميس الفزاري",
+    "id": 394
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620140060,
+    "name_en": "Said Zahir Said Alsaidi",
+    "name_ar": "سعيد زاهر سعيد السعيدي",
+    "id": 395
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 220420160022,
+    "name_en": "Said Salim Hassan Khalfan Al Rusheidi",
+    "name_ar": "سعيد سالم حسن خلفان الرشيدي",
+    "id": 396
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140118,
+    "name_en": "Said Salim Said Al Abdul Salam",
+    "name_ar": "سعيد سالم سعيد آل عبدالسلام",
+    "id": 397
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140049,
+    "name_en": "Said Salim Said Al Breiki",
+    "name_ar": "سعيد سالم سعيد البريكي",
+    "id": 398
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 28720120096,
+    "name_en": "Said Salim Said Al Fazari",
+    "name_ar": "سعيد سالم سعيد الفزاري",
+    "id": 399
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224620120034,
+    "name_en": "Said Sulaiman Said Al Zeidi",
+    "name_ar": "سعيد سليمان سعيد الزيدي",
+    "id": 400
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520140062,
+    "name_en": "Said Shinain Said Al Fazari",
+    "name_ar": "سعيد شنين سعيد الفزاري",
+    "id": 401
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 220420160094,
+    "name_en": "Said 'Adil Said Ali Al Balushi",
+    "name_ar": "سعيد عادل سعيد علي البلوشي",
+    "id": 402
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160086,
+    "name_en": "Said 'Abdullah Sabil 'Abdullah Al Balushi",
+    "name_ar": "سعيد عبدالله سبيل عبدالله البلوشي",
+    "id": 403
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224220120020,
+    "name_en": "Said Abdullah Said Hassan Al Breiki",
+    "name_ar": "سعيد عبدالله سعيد حسن البريكي",
+    "id": 404
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150001,
+    "name_en": "Said Fahad Said 'Obaid Al Mezeini",
+    "name_ar": "سعيد فهد سعيد عبيد المزيني",
+    "id": 405
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 223020150022,
+    "name_en": "Said Mohammed Rashid Mohammed Al-Mamari",
+    "name_ar": "سعيد محمد راشد محمد المعمري",
+    "id": 406
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224220130141,
+    "name_en": "Said Mohammed Said Al Breiki",
+    "name_ar": "سعيد محمد سعيد البريكي",
+    "id": 407
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 27520140010,
+    "name_en": "Said Mohamed Said Al Fazari",
+    "name_ar": "سعيد محمد سعيد الفزاري",
+    "id": 408
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160040,
+    "name_en": "Said Mohammed Said Salim Al Fazari",
+    "name_ar": "سعيد محمد سعيد سالم الفزاري",
+    "id": 409
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224020140121,
+    "name_en": "Said Musabah Said Al-Breiki",
+    "name_ar": "سعيد مصبح سعيد البريكي",
+    "id": 410
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 20920140089,
+    "name_en": "Said Nasser Saif Al-Mamari",
+    "name_ar": "سعيد ناصر سيف المعمري",
+    "id": 411
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620100203,
+    "name_en": "Said Hashil Ali Musabah Al Badi",
+    "name_ar": "سعيد هاشل علي مصبح البادي",
+    "id": 412
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 20920140092,
+    "name_en": "Sufian Said Musabah Al-Khaldi",
+    "name_ar": "سفيان سعيد مصبح الخالدي",
+    "id": 413
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 27520130015,
+    "name_en": "Sultan Ahmed Abdallah Al-Fazari",
+    "name_ar": "سلطان أحمد عبدالله الفزاري",
+    "id": 414
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224220160067,
+    "name_en": "Sultan Salim Khusaif Musabah Al Breiki",
+    "name_ar": "سلطان سالم خصيف مصبح البريكي",
+    "id": 415
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160113,
+    "name_en": "Sultan Said Salim Rashid Al Breiki",
+    "name_ar": "سلطان سعيد سالم راشد البريكي",
+    "id": 416
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224220130018,
+    "name_en": "Sultan Said Ali Al Badi",
+    "name_ar": "سلطان سعيد علي البادي",
+    "id": 417
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160154,
+    "name_en": "Sultan Saif Khamis Saif Al Badi",
+    "name_ar": "سلطان سيف خميس سيف البادي",
+    "id": 418
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224220150032,
+    "name_en": "Sultan Saif Fadhil Habib Alwahibi",
+    "name_ar": "سلطان سيف فاضل حبيب الوهيبي",
+    "id": 419
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160081,
+    "name_en": "Sultan Saif Mohammed Khalfan Al-Badi",
+    "name_ar": "سلطان سيف محمد خلفان البادي",
+    "id": 420
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 28820160010,
+    "name_en": "Sultan Mohammed Said Khamis Al-Suwaidi",
+    "name_ar": "سلطان محمد سعيد خميس السويدي",
+    "id": 421
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224520160110,
+    "name_en": "Salman Humaid Salman Humaid Al-Fraisi",
+    "name_ar": "سلمان حميد سلمان حميد الفريسي",
+    "id": 422
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160073,
+    "name_en": "Salman Dawood Sulaiman Ali Al-Fazari",
+    "name_ar": "سلمان داود سليمان علي الفزاري",
+    "id": 423
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224620160114,
+    "name_en": "Salmaan Saif Nasser Rashid Al Sinani",
+    "name_ar": "سلمان سيف ناصر راشد السناني",
+    "id": 424
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 28720120084,
+    "name_en": "Salman Mohammed Khalifa Al Fazari",
+    "name_ar": "سلمان محمد خليفه الفزاري",
+    "id": 425
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150087,
+    "name_en": "Sulaiman Khalifa Khamis 'Obaid Al'Owaisi",
+    "name_ar": "سليمان خليفه خميس عبيد العويسي",
+    "id": 426
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224620150015,
+    "name_en": "Sulaiman Said Khalfan Al Kindi",
+    "name_ar": "سليمان سعيد خلفان الكندي",
+    "id": 427
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 220420120085,
+    "name_en": "Sulaiman Said Sulaiman Al Kahali",
+    "name_ar": "سليمان سعيد سليمان الكحالي",
+    "id": 428
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224020130022,
+    "name_en": "Sulaiman Ali Abdullah Al Breiki",
+    "name_ar": "سليمان علي عبدالله البريكي",
+    "id": 429
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 20920130059,
+    "name_en": "Sulaiman Mubarak Mafatah Al Breiki",
+    "name_ar": "سليمان مبارك مفتاح البريكي",
+    "id": 430
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224620150024,
+    "name_en": "Sulaiman Yousuf Sulaiman Al-Fazari",
+    "name_ar": "سليمان يوسف سليمان الفزاري",
+    "id": 431
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224020150014,
+    "name_en": "Sanad Rashid Juma Salim Al-Shahi",
+    "name_ar": "سند راشد جمعه سالم الشحي",
+    "id": 432
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224520150006,
+    "name_en": "Suhail Ibrahim Khamis Said Al Breiki",
+    "name_ar": "سهيل ابراهيم خميس سعيد البريكي",
+    "id": 433
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224220130083,
+    "name_en": "Saif Hamdan Saleem Alsaidi",
+    "name_ar": "سيف حمدان سليم السعيدي",
+    "id": 434
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 223920130055,
+    "name_en": "Saif Khalaf Humaid Al-Mamari",
+    "name_ar": "سيف خلف حميد المعمري",
+    "id": 435
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224220150075,
+    "name_en": "Saif Salim Ali Nasser Al Sinani",
+    "name_ar": "سيف سالم علي ناصر السناني",
+    "id": 436
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224220120029,
+    "name_en": "Saif Said Salim Al Khuwaldi",
+    "name_ar": "سيف سعيد سالم الخوالدي",
+    "id": 437
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224620150082,
+    "name_en": "Saif Sultan Said Sulaiman Al Zeidi",
+    "name_ar": "سيف سلطان سعيد سليمان الزيدي",
+    "id": 438
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224520140083,
+    "name_en": "Saif Sultan Abdullah Al-Mahairzi",
+    "name_ar": "سيف سلطان عبدالله المحيرزي",
+    "id": 439
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224220140110,
+    "name_en": "Saif Sulaiman Saif Hamdan Alsaidi",
+    "name_ar": "سيف سليمان سيف حمدان السعيدي",
+    "id": 440
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224620160091,
+    "name_en": "Saif Mohammed Salim Saif Al Sarihi",
+    "name_ar": "سيف محمد سالم سيف السريحي",
+    "id": 441
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224020130028,
+    "name_en": "Saif Mohammed Saif Al Breiki",
+    "name_ar": "سيف محمد سيف البريكي",
+    "id": 442
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160143,
+    "name_en": "Saif Mohammed Saif Mohammed Al-Mamari",
+    "name_ar": "سيف محمد سيف محمد المعمري",
+    "id": 443
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224020150134,
+    "name_en": "Shihab Ahmed Saleh Al Breiki",
+    "name_ar": "شهاب احمد صالح البريكي",
+    "id": 444
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224620140103,
+    "name_en": "Shihab Sultan Hamed Al Masoudi",
+    "name_ar": "شهاب سلطان حمد المسعودي",
+    "id": 445
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160064,
+    "name_en": "Saleh Ali Saleh Salim Al Breiki",
+    "name_ar": "صالح علي صالح سالم البريكي",
+    "id": 446
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224520160067,
+    "name_en": "Saleh Mohammed Saleh Musabah Al Kindi",
+    "name_ar": "صالح محمد صالح مصبح الكندي",
+    "id": 447
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150116,
+    "name_en": "Saqar Salim Rabi'A Al Fazari",
+    "name_ar": "صقر سالم ربيع الفزاري",
+    "id": 448
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150073,
+    "name_en": "Suhaib Ibrahim Mohammed Ali Al Mahrezi",
+    "name_ar": "صهيب ابراهيم محمد علي المحرزي",
+    "id": 449
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 220220240002,
+    "name_en": "Dirgam Mohamed Younis Younis",
+    "name_ar": "ضرغام محمد كمال يونس",
+    "id": 450
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224520130005,
+    "name_en": "Tariq Sulaiman Abdullah Al Ali",
+    "name_ar": "طارق سليمان عبدالله العلي",
+    "id": 451
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224520130072,
+    "name_en": "Taraq Nasser Said Al Fazari",
+    "name_ar": "طارق ناصر سعيد الفزاري",
+    "id": 452
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 240420150080,
+    "name_en": "Taher Mohamed Marhoon Said Al Qartoobi",
+    "name_ar": "طاهر محمد مرهون سعيد القرطوبي",
+    "id": 453
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224020120095,
+    "name_en": "Talal Sultan Ahmed Al Breiki",
+    "name_ar": "طلال سلطان احمد البريكي",
+    "id": 454
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224620140061,
+    "name_en": "Taha Kamil Salim Al Zadjali",
+    "name_ar": "طه كامل سالم الزدجالي",
+    "id": 455
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224520160098,
+    "name_en": "Adil Rashid Khamis Ali Al Breiki",
+    "name_ar": "عادل راشد خميس علي البريكي",
+    "id": 456
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224620120098,
+    "name_en": "Adil Saif Mohammed Al-Wahaibi",
+    "name_ar": "عادل سيف محمد الوهيبي",
+    "id": 457
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224220120108,
+    "name_en": "Amer Salim Ali Al Sinani",
+    "name_ar": "عامر سالم علي السناني",
+    "id": 458
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224020160102,
+    "name_en": "Amur Abdullah Khasib Hamed Al Quraini",
+    "name_ar": "عامر عبدالله خصيب حمد القريني",
+    "id": 459
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 29620140027,
+    "name_en": "Aahed Mohammed Said Hassan Al Breiki",
+    "name_ar": "عاهد محمد سعيد حسن البريكي",
+    "id": 460
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 20920150018,
+    "name_en": "Abdul Rahman Ali Said Mubarak Alghmlasi",
+    "name_ar": "عبد الرحمن علي سعيد مبارك الغملاسي",
+    "id": 461
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224220150055,
+    "name_en": "Abdul Hakim Matar Rashid Said Al 'Abdul Sallam",
+    "name_ar": "عبدالحكيم مطر راشد سعيد آل عبدالسلام",
+    "id": 462
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 550420150094,
+    "name_en": "Abdulhamid Ahmed Salim Juma Al Mariki",
+    "name_ar": "عبدالحميد أحمد سالم جمعه المريكي",
+    "id": 463
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224220150045,
+    "name_en": "Abdulhamid Saif Hamood Al Sa'Idi",
+    "name_ar": "عبدالحميد سيف حمود السعيدي",
+    "id": 464
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224220160049,
+    "name_en": "Abdulhamid Saif Said Saif Alsa'Idi",
+    "name_ar": "عبدالحميد سيف سعيد سيف السعيدي",
+    "id": 465
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150041,
+    "name_en": "Abdul  Rehman Jamil Khamis Jamil Al Fazari",
+    "name_ar": "عبدالرحمن جميل خميس جميل الفزاري",
+    "id": 466
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224220130071,
+    "name_en": "Abdul Rahman Humaid Salim Al Waheibi",
+    "name_ar": "عبدالرحمن حميد سالم الوهيبي",
+    "id": 467
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 27520130027,
+    "name_en": "Abdul Rahman Khalid Salim Al Sarihi",
+    "name_ar": "عبدالرحمن خالد سالم السريحي",
+    "id": 468
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224520130022,
+    "name_en": "Abdulrahman Salim Abdullah Al Breiki",
+    "name_ar": "عبدالرحمن سالم عبدالله البريكي",
+    "id": 469
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 20920130122,
+    "name_en": "Abdul  Rahman Salim Nasser Al Saidi",
+    "name_ar": "عبدالرحمن سالم ناصر السعيدي",
+    "id": 470
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 23520130032,
+    "name_en": "Abdulrahman Amur Humaid Alsaidi",
+    "name_ar": "عبدالرحمن عامر حميد السعيدي",
+    "id": 471
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224620130075,
+    "name_en": "Abdul Rahman Abdullah Jamil Al-Fazari",
+    "name_ar": "عبدالرحمن عبدالله جميل الفزاري",
+    "id": 472
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224620140044,
+    "name_en": "Abdulrahimn Abdullah Khamis Al-Fazari",
+    "name_ar": "عبدالرحمن عبدالله خميس الفزاري",
+    "id": 473
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224220150077,
+    "name_en": "'Abdul Rahman 'Abdullah Rashid Salim Alsa'Idi",
+    "name_ar": "عبدالرحمن عبدالله راشد سالم السعيدي",
+    "id": 474
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224020140034,
+    "name_en": "Abdulrahman Abdullah Said Al Breiki",
+    "name_ar": "عبدالرحمن عبدالله سعيد البريكي",
+    "id": 475
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224620140003,
+    "name_en": "Abdul Rahman Abdullah Issa Al Muharzi",
+    "name_ar": "عبدالرحمن عبدالله عيسى المحيرزي",
+    "id": 476
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 20920140053,
+    "name_en": "Abdul Rahman Abdullah Mohammed Al Ghamallasi",
+    "name_ar": "عبدالرحمن عبدالله محمد الغملاسي",
+    "id": 477
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520150015,
+    "name_en": "Abdulrahman Ali Mohammed Khamis Al Fazari",
+    "name_ar": "عبدالرحمن علي محمد خميس الفزاري",
+    "id": 478
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224020130097,
+    "name_en": "Abdulrahman Mohammed Salim Al Breiki",
+    "name_ar": "عبدالرحمن محمد سالم البريكي",
+    "id": 479
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224320140151,
+    "name_en": "Abdul Rahman Yahya Khamis Al-Mezeini",
+    "name_ar": "عبدالرحمن يحيى خميس المزيني",
+    "id": 480
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150097,
+    "name_en": "Abdulrahim Jasim Mohammed Obaid Al Breiki",
+    "name_ar": "عبدالرحيم جاسم محمد عبيد البريكي",
+    "id": 481
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224220140093,
+    "name_en": "Abdulrazaq Said Abdullah Al Nakhili",
+    "name_ar": "عبدالرزاق سعيد عبدالله النخيلي",
+    "id": 482
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160010,
+    "name_en": "Abdulsamd Salim Mohammed Mubarak Al Jabri",
+    "name_ar": "عبدالصمد سالم محمد مبارك الجابري",
+    "id": 483
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224520130062,
+    "name_en": "Abdulaziz Khadim Suroor Al Busaidi",
+    "name_ar": "عبدالعزيز خادم سرور البوسعيدي",
+    "id": 484
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020110014,
+    "name_en": "Abdul Aziz Khalfan Salim Al Breiki",
+    "name_ar": "عبدالعزيز خلفان سالم البريكي",
+    "id": 485
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224220150072,
+    "name_en": "'Abdul Aziz Saud Juma Mohammed Al Shamousi",
+    "name_ar": "عبدالعزيز سعود جمعه محمد الشموسي",
+    "id": 486
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224020150089,
+    "name_en": "'Abdulaziz Said Nasib Saif Al Breiki",
+    "name_ar": "عبدالعزيز سعيد نصيب سيف البريكي",
+    "id": 487
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160095,
+    "name_en": "Abdul Aziz 'Abdullah Khamis Bilal Al-Fazari",
+    "name_ar": "عبدالعزيز عبدالله خميس بلال الفزاري",
+    "id": 488
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224220150062,
+    "name_en": "'Abdul 'Aziz 'Abdullah Salim Said Alsa'Idi",
+    "name_ar": "عبدالعزيز عبدالله سالم سعيد السعيدي",
+    "id": 489
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224020150057,
+    "name_en": "Abdul Aziz 'Abdullah Said Mubarak Al Ghamallasi",
+    "name_ar": "عبدالعزيز عبدالله سعيد مبارك الغملاسي",
+    "id": 490
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160038,
+    "name_en": "Abdulaziz Ali Said Gharib Albreaki",
+    "name_ar": "عبدالعزيز علي سعيد غريب البريكي",
+    "id": 491
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 29920150004,
+    "name_en": "Abdulaziz Qais 'Abdul 'Aziz 'Abdullah Al Ma'Mari",
+    "name_ar": "عبدالعزيز قيس عبدالعزيز عبدالله المعمري",
+    "id": 492
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 23520120094,
+    "name_en": "Abdulaziz Mohammed 'Abdullah Ali Al Fazari",
+    "name_ar": "عبدالعزيز محمد عبدالله علي الفزاري",
+    "id": 493
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224520160114,
+    "name_en": "Abdulaziz Marwan Salim 'Obaid Al Breiki",
+    "name_ar": "عبدالعزيز مروان سالم عبيد البريكي",
+    "id": 494
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 24720130012,
+    "name_en": "Abdullatif Ahmed Abdul Latif Al Balushi",
+    "name_ar": "عبداللطيف احمد عبداللطيف البلوشي",
+    "id": 495
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224520140091,
+    "name_en": "Abdullatiff Humaid Abdullah Al Fazari",
+    "name_ar": "عبداللطيف حميد عبدالله الفزاري",
+    "id": 496
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620150068,
+    "name_en": "Abdullah Ahmed Khamis Khalfan Al-Mezeini",
+    "name_ar": "عبدالله أحمد خميس خلفان المزيني",
+    "id": 497
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160135,
+    "name_en": "Abdullah Ahmed 'Abdallah Said Al-Fazari",
+    "name_ar": "عبدالله أحمد عبدالله سعيد الفزاري",
+    "id": 498
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160008,
+    "name_en": "'Abdullah Ibrahim Rashid Shinain Al Fazari",
+    "name_ar": "عبدالله ابراهيم راشد شنين الفزاري",
+    "id": 499
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224220140123,
+    "name_en": "Abdullah Ahmed Khalfan Al Buraiki",
+    "name_ar": "عبدالله احمد خلفان البريكي",
+    "id": 500
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224620150092,
+    "name_en": "Abdullah Ahmed Salim Mattar Al-Badi",
+    "name_ar": "عبدالله احمد سالم مطر البادي",
+    "id": 501
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160112,
+    "name_en": "'Abdullah Ahmed 'Abdullah Salim Al Fazari",
+    "name_ar": "عبدالله احمد عبدالله سالم الفزاري",
+    "id": 502
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224520130054,
+    "name_en": "Abdullah Jasim Abdullah Al Masoudi",
+    "name_ar": "عبدالله جاسم عبدالله المسعودي",
+    "id": 503
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224020130001,
+    "name_en": "Abdullh Juma Khamis Al Breiki",
+    "name_ar": "عبدالله جمعه خميس البريكي",
+    "id": 504
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140073,
+    "name_en": "Abdullh Juma Obaid Al Breiki",
+    "name_ar": "عبدالله جمعه عبيد البريكي",
+    "id": 505
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224020130099,
+    "name_en": "Abdullah Juma Obaid Al Breiki",
+    "name_ar": "عبدالله جمعه عبيد البريكي",
+    "id": 506
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160094,
+    "name_en": "Abdullah Hassan Abdullah Ibrahim Al Fazari",
+    "name_ar": "عبدالله حسن عبدالله ابراهيم الفزاري",
+    "id": 507
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224020140010,
+    "name_en": "Abdulla Hamed Khalfan Al Breiki",
+    "name_ar": "عبدالله حمد خلفان البريكي",
+    "id": 508
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520150050,
+    "name_en": "Abdullah Khadim Suroor Khadim Al Busaidi",
+    "name_ar": "عبدالله خادم سرور خادم البوسعيدي",
+    "id": 509
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224020130094,
+    "name_en": "Abdullh Khalid Rashid Al Mamari",
+    "name_ar": "عبدالله خالد راشد المعمري",
+    "id": 510
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160111,
+    "name_en": "Abdullah Khalid Rashid 'Abdullah Al Ma'Mari",
+    "name_ar": "عبدالله خالد راشد عبدالله المعمري",
+    "id": 511
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224220130142,
+    "name_en": "Abdullah Khalid Sulaiyam Al Saidi",
+    "name_ar": "عبدالله خالد سليـّم السعيدي",
+    "id": 512
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224620130037,
+    "name_en": "Abdullh Khalid Abdullah Al-Badi",
+    "name_ar": "عبدالله خالد عبدالله البادي",
+    "id": 513
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224020150065,
+    "name_en": "'Abdullah Khalid 'Abdullah Al Breiki",
+    "name_ar": "عبدالله خالد عبدالله البريكي",
+    "id": 514
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224020150060,
+    "name_en": "Abdallah Khald Abdallah Salim Al Breiki",
+    "name_ar": "عبدالله خالد عبدالله سالم البريكي",
+    "id": 515
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224520110010,
+    "name_en": "Abdullah Khalfan Said Al Breiki",
+    "name_ar": "عبدالله خلفان سعيد البريكي",
+    "id": 516
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224020150017,
+    "name_en": "Abdullah Khalfan Nasser Saif Al Habsi",
+    "name_ar": "عبدالله خلفان ناصر سيف الحبسي",
+    "id": 517
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160037,
+    "name_en": "Abdullah Khalifa Abdullah Salim Al Fazari",
+    "name_ar": "عبدالله خليفه عبدالله سالم الفزاري",
+    "id": 518
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224520140046,
+    "name_en": "Abdullh Darwish Salim Hashil Al Fazari",
+    "name_ar": "عبدالله درويش سالم هاشل الفزاري",
+    "id": 519
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224620160008,
+    "name_en": "Abdullah Rashid Hamed Said Al Sinani",
+    "name_ar": "عبدالله راشد حمد سعيد السناني",
+    "id": 520
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020130067,
+    "name_en": "Abdullah Rashid Said Al Buraiki",
+    "name_ar": "عبدالله راشد سعيد البريكي",
+    "id": 521
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 20920160015,
+    "name_en": "Abdullah Rashid Salman Rashid Al Balushi",
+    "name_ar": "عبدالله راشد سلمان راشد البلوشي",
+    "id": 522
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 240420160111,
+    "name_en": "Abdullah Salim Khamis Salim Al Shahi",
+    "name_ar": "عبدالله سالم خميس سالم الشحي",
+    "id": 523
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 221820130086,
+    "name_en": "Abdullah Salim Abdullah Al Fazari",
+    "name_ar": "عبدالله سالم عبدالله الفزاري",
+    "id": 524
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 223720150002,
+    "name_en": "'Abdullah Salim 'Abdullah Nasser Al Khaldi",
+    "name_ar": "عبدالله سالم عبدالله ناصر الخالدي",
+    "id": 525
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224620130056,
+    "name_en": "Abdullah Said Abdullah Al Breiki",
+    "name_ar": "عبدالله سعيد عبدالله البريكي",
+    "id": 526
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520160040,
+    "name_en": "Abdullah Said 'Abdullah Khalfan Al Breiki",
+    "name_ar": "عبدالله سعيد عبدالله خلفان البريكي",
+    "id": 527
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 27520160044,
+    "name_en": "Abdullah Said Abdullah Said Al Badi",
+    "name_ar": "عبدالله سعيد عبدالله سعيد البادي",
+    "id": 528
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160033,
+    "name_en": "'Abdullah Said Mohammed Ali Al-Breiki",
+    "name_ar": "عبدالله سعيد محمد علي البريكي",
+    "id": 529
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160049,
+    "name_en": "Abdullah Said Mohammed Ali Al Mahrizi",
+    "name_ar": "عبدالله سعيد محمد علي المحرزي",
+    "id": 530
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520160053,
+    "name_en": "Abdullah Sulaiman Salim Said Al Braiki",
+    "name_ar": "عبدالله سليمان سالم سعيد البريكي",
+    "id": 531
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620150048,
+    "name_en": "Abdullah Sulaiman Abdullah Said Al-Ali",
+    "name_ar": "عبدالله سليمان عبدالله سعيد العلي",
+    "id": 532
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160088,
+    "name_en": "Abdullah Sulaiman 'Abdullah Sulaiman Al-Ghamlasi",
+    "name_ar": "عبدالله سليمان عبدالله سليمان الغملاسي",
+    "id": 533
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224520160024,
+    "name_en": "'Abdullah Sulaiman Mubarak Said Al Hamdani",
+    "name_ar": "عبدالله سليمان مبارك سعيد الحمداني",
+    "id": 534
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 223920150174,
+    "name_en": "'Abdullah Abdu Latif 'Abdullah Al-Shabibi",
+    "name_ar": "عبدالله عبداللطيف عبدالله الشبيبي",
+    "id": 535
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224020160107,
+    "name_en": "Abdullah Ali Ibrahim Ahmed Al-Breiki",
+    "name_ar": "عبدالله علي ابراهيم أحمد البريكي",
+    "id": 536
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224220130150,
+    "name_en": "Abedullah Ali Rashid Al Breiki",
+    "name_ar": "عبدالله علي راشد البريكي",
+    "id": 537
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224220150102,
+    "name_en": "Abdullah Ali Abdullah Ahmed Al Fazari",
+    "name_ar": "عبدالله علي عبدالله احمد الفزاري",
+    "id": 538
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224620130026,
+    "name_en": "Abdullah Ali Abdullah Al Fazari",
+    "name_ar": "عبدالله علي عبدالله الفزاري",
+    "id": 539
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 20920130112,
+    "name_en": "Abdullh Ali Abdullah Al-Kahali",
+    "name_ar": "عبدالله علي عبدالله الكحالي",
+    "id": 540
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 28820150017,
+    "name_en": "Abdullah Ali Abdallah Mahmood Al Zadjali",
+    "name_ar": "عبدالله علي عبدالله محمود الزدجالي",
+    "id": 541
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 220420150117,
+    "name_en": "Abdullah Issa Abdullah Gharib Al Quraini",
+    "name_ar": "عبدالله عيسى عبدالله غريب القريني",
+    "id": 542
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 21620120133,
+    "name_en": "Abdullah Faris Khamis Al Zaabi",
+    "name_ar": "عبدالله فارس خميس الزعابي",
+    "id": 543
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224520150010,
+    "name_en": "Abdullah Fadhil Mohammed Salim Al-Fazari",
+    "name_ar": "عبدالله فاضل محمد سالم الفزاري",
+    "id": 544
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 21620140044,
+    "name_en": "Abdallah Falah Abdallah Albreaki",
+    "name_ar": "عبدالله فالح عبدالله البريكي",
+    "id": 545
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 29620140023,
+    "name_en": "Abdullah Fathi Obaid Gharib Al Abdul Salam",
+    "name_ar": "عبدالله فتحي عبيد غريب آل عبدالسلام",
+    "id": 546
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224620150083,
+    "name_en": "Abdullah Mohamed Rashid Al Muharzi",
+    "name_ar": "عبدالله محمد راشد المحرزي",
+    "id": 547
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 28720140001,
+    "name_en": "Abdullah Mohammed Saif Hamed Al Maharbi",
+    "name_ar": "عبدالله محمد سيف حمد المحاربي",
+    "id": 548
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224520160061,
+    "name_en": "Abdullah Mohammed Abdullah Shinain Al Fazari",
+    "name_ar": "عبدالله محمد عبدالله شنين الفزاري",
+    "id": 549
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 28820130039,
+    "name_en": "Abdullah Matar Said Muslem Al Badi",
+    "name_ar": "عبدالله مطر سعيد مسلم البادي",
+    "id": 550
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224620140031,
+    "name_en": "Abdullah Nasser Abdullah Al Fazari",
+    "name_ar": "عبدالله ناصر عبدالله الفزاري",
+    "id": 551
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 20920130101,
+    "name_en": "Abdullah Nasser Abdullah Al Marzouqi",
+    "name_ar": "عبدالله ناصر عبدالله المرزوقي",
+    "id": 552
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160052,
+    "name_en": "'Abdullah Hilal 'Abdullah Mubarak Al Breiki",
+    "name_ar": "عبدالله هلال عبدالله مبارك البريكي",
+    "id": 553
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620120041,
+    "name_en": "Abdullah Yousuf Abdullah Al Shidi",
+    "name_ar": "عبدالله يوسف عبدالله الشيدي",
+    "id": 554
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224220130044,
+    "name_en": "Abdallah Yousuf Abdullah Al Farsi",
+    "name_ar": "عبدالله يوسف عبدالله الفارسي",
+    "id": 555
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 20920120040,
+    "name_en": "Abdulmanea Salim Rashid Alsaidi",
+    "name_ar": "عبدالمانع سالم راشد السعيدي",
+    "id": 556
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224220130014,
+    "name_en": "Abdulmajid Salim Mohammed Al Jabri",
+    "name_ar": "عبدالمجيد سالم محمد الجابري",
+    "id": 557
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224520120044,
+    "name_en": "Abdulmutaleb Hamdan Mubarak Al Fazari",
+    "name_ar": "عبدالمطلب حمدان مبارك الفزاري",
+    "id": 558
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 25320160027,
+    "name_en": "Abdulmalik Ahmed Said Mohammed Al-Dhahli",
+    "name_ar": "عبدالملك أحمد سعيد محمد الذهلي",
+    "id": 559
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520150018,
+    "name_en": "Abdul Malek Khalid Khamis Al Abdul Salaam",
+    "name_ar": "عبدالملك خالد خميس آل عبدالسلام",
+    "id": 560
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150058,
+    "name_en": "Abdul Malek Khasib Abdullah Khalfan Al Quraini",
+    "name_ar": "عبدالملك خصيب عبدالله خلفان القريني",
+    "id": 561
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224520150078,
+    "name_en": "Abdulmalik 'Abdullah Mohammed Ali Al Breiki",
+    "name_ar": "عبدالملك عبدالله محمد علي البريكي",
+    "id": 562
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150011,
+    "name_en": "Abdulmalek Faisal Said Salim Alsa'Idi",
+    "name_ar": "عبدالملك فيصل سعيد سالم السعيدي",
+    "id": 563
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160006,
+    "name_en": "Abdul Maleek Hilal Salim Khamis Al Breiki",
+    "name_ar": "عبدالملك هلال سالم خميس البريكي",
+    "id": 564
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 221820120074,
+    "name_en": "Abdulmuhaimen Harith Shinain Al Qatayti",
+    "name_ar": "عبدالمهيمن حارث شنين القطيطي",
+    "id": 565
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224320150182,
+    "name_en": "'Othman Ashraf Mohammed Salim Al-Mezeini",
+    "name_ar": "عثمان أشرف محمد سالم المزيني",
+    "id": 566
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160050,
+    "name_en": "Othman Ali 'Obaid Hamed Al Mahrezi",
+    "name_ar": "عثمان علي عبيد حمد المحرزي",
+    "id": 567
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224220130057,
+    "name_en": "Adnan Humaid Ali Al Sinani",
+    "name_ar": "عدنان حميد علي السناني",
+    "id": 568
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 25920120050,
+    "name_en": "Adnan Salim Nasser Al Sinani",
+    "name_ar": "عدنان سالم ناصر السناني",
+    "id": 569
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224620130015,
+    "name_en": "Adnan Adil Salim Al Fazari",
+    "name_ar": "عدنان عادل سالم الفزاري",
+    "id": 570
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224220150009,
+    "name_en": "Oday Abdallah Khamis Salim Aal Abdul Sallam",
+    "name_ar": "عدي عبدالله خميس سالم آل عبدالسلام",
+    "id": 571
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224520150040,
+    "name_en": "Udai 'Abdullah Ali Al 'Omairi",
+    "name_ar": "عدي عبدالله علي العميري",
+    "id": 572
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224220160053,
+    "name_en": "Azzan Ahmed Khalaf Habib Al Saidi",
+    "name_ar": "عزان أحمد خلف حبيب السعيدي",
+    "id": 573
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 221820160112,
+    "name_en": "Azzan Ahmed Said Mubarak Al Fazari",
+    "name_ar": "عزان احمد سعيد مبارك الفزاري",
+    "id": 574
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224020140095,
+    "name_en": "Azzan Rashid Khalfan Al Breiki",
+    "name_ar": "عزان راشد خلفان البريكي",
+    "id": 575
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224520140028,
+    "name_en": "Azzan Salim Juma Al Fazari",
+    "name_ar": "عزان سالم جمعه الفزاري",
+    "id": 576
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150147,
+    "name_en": "'Azan Talal Khalfan Humaid Al-Badi",
+    "name_ar": "عزان طلال خلفان حميد البادي",
+    "id": 577
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 28720120137,
+    "name_en": "Azzan Mohammed Khamis Al Kahali",
+    "name_ar": "عزان محمد خميس الكحالي",
+    "id": 578
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160029,
+    "name_en": "Isam Ayil Zayid Obaid Al 'Abdul Sallam",
+    "name_ar": "عصام عايل زايد عبيد آل عبدالسلام",
+    "id": 579
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224520140039,
+    "name_en": "Alaa Abdullah Ali Al Fazari",
+    "name_ar": "علاء عبدالله علي الفزاري",
+    "id": 580
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224220100343,
+    "name_en": "Ali Ahmed Said Aalabdulsallam",
+    "name_ar": "علي أحمد سعيد آل عبدالسلام",
+    "id": 581
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224020140100,
+    "name_en": "Ali Ahmed Abdallah Al-Breiki",
+    "name_ar": "علي أحمد عبدالله البريكي",
+    "id": 582
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020150118,
+    "name_en": "Ali Ahmed Mubarak Hassan Al-Breiki",
+    "name_ar": "علي أحمد مبارك حسن البريكي",
+    "id": 583
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224020150122,
+    "name_en": "Ali Ahmed Ali Al-Breiki",
+    "name_ar": "علي احمد علي البريكي",
+    "id": 584
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160055,
+    "name_en": "Ali Badar Ali Said Al-Fazari",
+    "name_ar": "علي بدر علي سعيد الفزاري",
+    "id": 585
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 20920140066,
+    "name_en": "Ali Juma Obaid Khamis Al Breiki",
+    "name_ar": "علي جمعه عبيد خميس البريكي",
+    "id": 586
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224020140082,
+    "name_en": "Ali Hassan Ali Al-Breiki",
+    "name_ar": "علي حسن علي البريكي",
+    "id": 587
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224520160018,
+    "name_en": "Ali Hassan Ali Abdallah Al Fazari",
+    "name_ar": "علي حسن علي عبدالله الفزاري",
+    "id": 588
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160127,
+    "name_en": "Ali Hussein Khamis Juma Al Kamali",
+    "name_ar": "علي حسين خميس جمعه الكمالي",
+    "id": 589
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 243220140115,
+    "name_en": "Ali Hussein Ali Al Mamari",
+    "name_ar": "علي حسين علي المعمري",
+    "id": 590
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160090,
+    "name_en": "Ali Hussein Ali Salim Alfazari",
+    "name_ar": "علي حسين علي سالم الفزاري",
+    "id": 591
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020130089,
+    "name_en": "Ali Humaid Ali Al Buraiki",
+    "name_ar": "علي حميد علي البريكي",
+    "id": 592
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 222520150037,
+    "name_en": "Ali Humaid Mohammed Ali Al-Maktoumi",
+    "name_ar": "علي حميد محمد علي المكتومي",
+    "id": 593
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224020150007,
+    "name_en": "Ali Khalid Ali Jasim Al-Breiki",
+    "name_ar": "علي خالد علي جاسم البريكي",
+    "id": 594
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620150134,
+    "name_en": "Ali Khalid Ali Juma Al Fazari",
+    "name_ar": "علي خالد علي جمعه الفزاري",
+    "id": 595
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224020140046,
+    "name_en": "Ali Khalfan Abdullah Al Breiki",
+    "name_ar": "علي خلفان عبدالله البريكي",
+    "id": 596
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224520150049,
+    "name_en": "Ali Khamis Ali Salim Al Fazari",
+    "name_ar": "علي خميس علي سالم الفزاري",
+    "id": 597
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 223920160184,
+    "name_en": "Ali Rashid Ali Rashid Al Qayudhi",
+    "name_ar": "علي راشد علي راشد القيوضي",
+    "id": 598
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 28820130006,
+    "name_en": "Ali Rashid Ali Said Al Badi",
+    "name_ar": "علي راشد علي سعيد البادي",
+    "id": 599
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224620140104,
+    "name_en": "Ali Rashid Mubarak Abdallah Al-Quraini",
+    "name_ar": "علي راشد مبارك عبدالله القريني",
+    "id": 600
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020140002,
+    "name_en": "Ali Salim Khalfan Al Breiki",
+    "name_ar": "علي سالم خلفان البريكي",
+    "id": 601
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224520130044,
+    "name_en": "Ali Salim Khalfan Al Fazari",
+    "name_ar": "علي سالم خلفان الفزاري",
+    "id": 602
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224220150020,
+    "name_en": "Ali Salim 'Abdullah Mohammed Al Mezeini",
+    "name_ar": "علي سالم عبدالله محمد المزيني",
+    "id": 603
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 29920130078,
+    "name_en": "Ali Salim Ali Al Breiki",
+    "name_ar": "علي سالم علي البريكي",
+    "id": 604
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224020120102,
+    "name_en": "Ali Said Ali Al Breiki",
+    "name_ar": "علي سعيد علي البريكي",
+    "id": 605
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224520150065,
+    "name_en": "Ali Said Ali Al Braiki",
+    "name_ar": "علي سعيد علي البريكي",
+    "id": 606
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224220130126,
+    "name_en": "Ali Said Ali Alsaidi",
+    "name_ar": "علي سعيد علي السعيدي",
+    "id": 607
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224520130033,
+    "name_en": "Ali Saleh Said Al Breiki",
+    "name_ar": "علي صالح سعيد البريكي",
+    "id": 608
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224620160128,
+    "name_en": "Ali Abdul Aziz Ali Juma Al Masoudi",
+    "name_ar": "علي عبدالعزيز علي جمعه المسعودي",
+    "id": 609
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 28720130050,
+    "name_en": "Ali Abdullah Khasib Mohamed Al Breiki",
+    "name_ar": "علي عبدالله خصيب محمد البريكي",
+    "id": 610
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224220150117,
+    "name_en": "Ali 'Abdallah Salayim Said Alsa'Idi",
+    "name_ar": "علي عبدالله سلـّيم سعيد السعيدي",
+    "id": 611
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224020130010,
+    "name_en": "Ali Abdullah Ali Al Breiki",
+    "name_ar": "علي عبدالله علي البريكي",
+    "id": 612
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 21620120147,
+    "name_en": "Ali Abdulla Ali Al Hamdani",
+    "name_ar": "علي عبدالله علي الحمداني",
+    "id": 613
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224220150096,
+    "name_en": "Ali Mohammed Rashid Khamis Al Handasi",
+    "name_ar": "علي محمد راشد خميس الهنداسي",
+    "id": 614
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 25320160083,
+    "name_en": "Ali Mohammed Said Al Fazari",
+    "name_ar": "علي محمد سعيد الفزاري",
+    "id": 615
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224120100442,
+    "name_en": "Ali Mohammed Abdullah Al Shidi",
+    "name_ar": "على محمد عبدالله الشيدى",
+    "id": 616
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160035,
+    "name_en": "Ali Mohammed Obaid Shinain Al Muharzi",
+    "name_ar": "علي محمد عبيد شنين المحيرزي",
+    "id": 617
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 220420120050,
+    "name_en": "Ali Mohammed Ali Al Khnasouri",
+    "name_ar": "علي محمد علي الخنصوري",
+    "id": 618
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224520150024,
+    "name_en": "Ali Mohammed Ali Humaid Alomairi",
+    "name_ar": "علي محمد علي حميد العميري",
+    "id": 619
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224020160039,
+    "name_en": "Ali Mohammed Ali Rashid Al Breiki",
+    "name_ar": "علي محمد علي راشد البريكي",
+    "id": 620
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 220420150010,
+    "name_en": "Ali Nasser Ali Mohammed Al Breiki",
+    "name_ar": "علي ناصر علي محمد البريكي",
+    "id": 621
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 28820140007,
+    "name_en": "Ali Nayif Ali Said Alsaidi",
+    "name_ar": "علي نايف علي سعيد السعيدي",
+    "id": 622
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224620160112,
+    "name_en": "Ali Hilal Ali Abdallah Al Khamisi",
+    "name_ar": "علي هلال علي عبدالله الخميسي",
+    "id": 623
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160023,
+    "name_en": "Eimad Ahmed Khamis Hassan Al Buraiki",
+    "name_ar": "عماد أحمد خميس حسن البريكي",
+    "id": 624
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520150036,
+    "name_en": "Imad Abdullah Khamis Said Al Fazary",
+    "name_ar": "عماد عبدالله خميس سعيد الفزاري",
+    "id": 625
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224220150024,
+    "name_en": "Ammar Hamdan Salim Alsa'Idi",
+    "name_ar": "عمار حمدان سالم السعيدي",
+    "id": 626
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 27520120009,
+    "name_en": "Amar Humaid Said Salim Alsaidi",
+    "name_ar": "عمار حميد سعيد سالم السعيدي",
+    "id": 627
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224020120083,
+    "name_en": "Amar Zaid Khalifa Al-Mamari",
+    "name_ar": "عمار زايد خليفه المعمري",
+    "id": 628
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224020150054,
+    "name_en": "Ammar Salim Mohammed Shinain Al-Breiki",
+    "name_ar": "عمار سالم محمد شنين البريكي",
+    "id": 629
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224020140064,
+    "name_en": "Amaar Sulaiman Abdallah Shinain Al Breiki",
+    "name_ar": "عمار سليمان عبدالله شنين البريكي",
+    "id": 630
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224020120062,
+    "name_en": "Amar Abdullah Khasib Hamed Al Quraini",
+    "name_ar": "عمار عبدالله خصيب حمد القريني",
+    "id": 631
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224020150110,
+    "name_en": "Amar Abdullah Mubarak Hassan Al Breiki",
+    "name_ar": "عمار عبدالله مبارك حسن البريكي",
+    "id": 632
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224020150133,
+    "name_en": "Ammar Mohammed Ahmed Al Breiki",
+    "name_ar": "عمار محمد احمد البريكي",
+    "id": 633
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224220120038,
+    "name_en": "Ammar Mohammed Khamis Al Breiki",
+    "name_ar": "عمار محمد خميس البريكي",
+    "id": 634
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620130076,
+    "name_en": "Omar Ahmed Mohammed Hassan Al Balushi",
+    "name_ar": "عمر احمد محمد حسن البلوشي",
+    "id": 635
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 25320150013,
+    "name_en": "Omar Badar Salim Saif Al Shidi",
+    "name_ar": "عمر بدر سالم سيف الشيدى",
+    "id": 636
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224620110134,
+    "name_en": "Omar Hamdan Khalfan Alsaidi",
+    "name_ar": "عمر حمدان خلفان السعيدي",
+    "id": 637
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224620140100,
+    "name_en": "Omar Khalid Humaid Al Sinani",
+    "name_ar": "عمر خالد حميد السناني",
+    "id": 638
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224520160015,
+    "name_en": "Omar Khamis Khalfan Mohammed Al Breiki",
+    "name_ar": "عمر خميس خلفان محمد البريكي",
+    "id": 639
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224620150046,
+    "name_en": "Omar Salim Hassan Salim Al-Fazari",
+    "name_ar": "عمر سالم حسن سالم الفزاري",
+    "id": 640
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224620140046,
+    "name_en": "Omar Salim Khalfan Al Kindi",
+    "name_ar": "عمر سالم خلفان الكندي",
+    "id": 641
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224520130031,
+    "name_en": "Omar Salim Ali Al Kindi",
+    "name_ar": "عمر سالم علي الكندي",
+    "id": 642
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 29920160044,
+    "name_en": "Omar Said 'Abdullah Said Al Fazari",
+    "name_ar": "عمر سعيد عبدالله سعيد الفزاري",
+    "id": 643
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224020160036,
+    "name_en": "Omar Sulaiman Abdallah Shinain Al Breiki",
+    "name_ar": "عمر سليمان عبدالله شنين البريكي",
+    "id": 644
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224020130031,
+    "name_en": "Omar Suwidan Hamood Al Mamari",
+    "name_ar": "عمر سويدان حمود المعمري",
+    "id": 645
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224220140104,
+    "name_en": "Omer Abdallah Ali Al Badi",
+    "name_ar": "عمر عبدالله علي البادي",
+    "id": 646
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 221820160076,
+    "name_en": "Omar Aziz Mohammed Ali Al-Maktoumi",
+    "name_ar": "عمر عزيز محمد علي المكتومي",
+    "id": 647
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 220420150060,
+    "name_en": "Omar Ali Sulaiman Said Al Awaini",
+    "name_ar": "عمر علي سليمان سعيد العويني",
+    "id": 648
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224020160136,
+    "name_en": "Omar Ali Abdullah Khalfan Al Baraiki",
+    "name_ar": "عمر علي عبدالله خلفان البريكي",
+    "id": 649
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 414120150084,
+    "name_en": "Omar Mohammed Rashid Said Alsaidi",
+    "name_ar": "عمر محمد راشد سعيد السعيدي",
+    "id": 650
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 20920140050,
+    "name_en": "Omar Matar Hamdan Al-Saaidi",
+    "name_ar": "عمر مطر حمدان السعيدي",
+    "id": 651
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224020150102,
+    "name_en": "Omran Khalid Mubarak Hassan Al Breiki",
+    "name_ar": "عمران خالد مبارك حسن البريكي",
+    "id": 652
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140063,
+    "name_en": "Omran Ali Said Al Breiki",
+    "name_ar": "عمران علي سعيد البريكي",
+    "id": 653
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224020130061,
+    "name_en": "Omran Mohammed Salim Al-Ghamlasi",
+    "name_ar": "عمران محمد سالم الغملاسي",
+    "id": 654
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224220140033,
+    "name_en": "Omran Nasser Salim Albreaki",
+    "name_ar": "عمران ناصر سالم البريكي",
+    "id": 655
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 21620140002,
+    "name_en": "Omraan Nasser Ali Al Omairi",
+    "name_ar": "عمران ناصر علي العميري",
+    "id": 656
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 220520190001,
+    "name_en": "Ghalib Juma Mohammed Al Breiki",
+    "name_ar": "غالب جمعه محمد البريكي",
+    "id": 657
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 20920120210,
+    "name_en": "Ghanim Salim Hassan Al Matarish",
+    "name_ar": "غانم سالم حسن المطاريش",
+    "id": 658
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224020150132,
+    "name_en": "Ghaith Rashid Jamil Rashid Al Braiki",
+    "name_ar": "غيث راشد جميل راشد البريكي",
+    "id": 659
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224620160093,
+    "name_en": "Ghith Salim Ali Musabah Al Badi",
+    "name_ar": "غيث سالم علي مصبح البادي",
+    "id": 660
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020130007,
+    "name_en": "Fares Ahmed Muftah Al-Breiki",
+    "name_ar": "فارس أحمد مفتاح البريكي",
+    "id": 661
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224220130076,
+    "name_en": "Fares Saif Khalaf Al Saidi",
+    "name_ar": "فارس سيف خلف السعيدي",
+    "id": 662
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 95320140004,
+    "name_en": "Fares Abdullah Rashid Al Shidi",
+    "name_ar": "فارس عبدالله راشد الشيدي",
+    "id": 663
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 21620150003,
+    "name_en": "Firas Ahmed Mohammed Juma Al-Masaoudi",
+    "name_ar": "فراس أحمد محمد جمعه المسعودي",
+    "id": 664
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 29720130020,
+    "name_en": "Firas Habib Abdallah Al Abdul Salam",
+    "name_ar": "فراس حبيب عبدالله آل عبدالسلام",
+    "id": 665
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 223720160065,
+    "name_en": "Firas Rasheed Mubarak Rabia Al-Kahali",
+    "name_ar": "فراس رشيد مبارك ربيع الكحالي",
+    "id": 666
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224220140080,
+    "name_en": "Feras Salim Abdallah Said Al Sinani",
+    "name_ar": "فراس سالم عبدالله سعيد السناني",
+    "id": 667
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224220130102,
+    "name_en": "Feras Said Rashid Aal Abdulsallam",
+    "name_ar": "فراس سعيد راشد آل عبدالسلام",
+    "id": 668
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 223920160060,
+    "name_en": "Feras 'Abdul Rahman Mubarak Said Al Balushi",
+    "name_ar": "فراس عبدالرحمن مبارك سعيد البلوشي",
+    "id": 669
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 223920160145,
+    "name_en": "Feras Abdullah Rashid Mohammed Al Shidi",
+    "name_ar": "فراس عبدالله راشد محمد الشيدي",
+    "id": 670
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224020140125,
+    "name_en": "Feras 'Abdullah Salim Sulaiman Al Breiki",
+    "name_ar": "فراس عبدالله سالم سليمان البريكي",
+    "id": 671
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224220100335,
+    "name_en": "Faras Fahad Suwaidan Al-Mamari",
+    "name_ar": "فراس فهد سويدان المعمري",
+    "id": 672
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 25920120061,
+    "name_en": "Feras Mohamed Khamis Al Shaidi",
+    "name_ar": "فراس محمد خميس الشيدي",
+    "id": 673
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520160103,
+    "name_en": "Firas Yasir Darwish Darwish Al-Ajmi",
+    "name_ar": "فراس ياسر درويش درويش العجمي",
+    "id": 674
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224220130145,
+    "name_en": "Falah Mohammed Khalaf Alsaidi",
+    "name_ar": "فلاح محمد خلف السعيدي",
+    "id": 675
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224620120095,
+    "name_en": "Falah Masoud Mohammed Al Hamdani",
+    "name_ar": "فلاح مسعود محمد الحمداني",
+    "id": 676
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224220150165,
+    "name_en": "Fahad Humaid Khamis Said Al Suwaidi",
+    "name_ar": "فهد حميد خميس سعيد السويدي",
+    "id": 677
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020130102,
+    "name_en": "Fahad Khalid Ahmed Al-Breiki",
+    "name_ar": "فهد خالد أحمد البريكي",
+    "id": 678
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224520160090,
+    "name_en": "Fahed Darwish Salim Hashil Al Fazari",
+    "name_ar": "فهد درويش سالم هاشل الفزاري",
+    "id": 679
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224220140030,
+    "name_en": "Fahad Abdullah Ali Alsaidi",
+    "name_ar": "فهد عبدالله علي السعيدي",
+    "id": 680
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160030,
+    "name_en": "Fahad Mubarak Jamil Mubarak Al Abdul Salam",
+    "name_ar": "فهد مبارك جميل مبارك ال عبدالسلام",
+    "id": 681
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 24720160030,
+    "name_en": "Faisal Ahmed Ali Said Alsa'Idi",
+    "name_ar": "فيصل احمد علي سعيد السعيدي",
+    "id": 682
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 220420130086,
+    "name_en": "Faisal Khusaif Musabah Albreaki",
+    "name_ar": "فيصل خصيف مصبح البريكي",
+    "id": 683
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224520120037,
+    "name_en": "Faisal Darwish Salim Al Fazari",
+    "name_ar": "فيصل درويش سالم الفزاري",
+    "id": 684
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224220150182,
+    "name_en": "Faisal Said Humaid Alsa'Idi",
+    "name_ar": "فيصل سعيد حميد السعيدي",
+    "id": 685
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620130019,
+    "name_en": "Faisal Said Salim Al Badi",
+    "name_ar": "فيصل سعيد سالم البادي",
+    "id": 686
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 240420130132,
+    "name_en": "Faisal Abdullah Saif Al Hosni",
+    "name_ar": "فيصل عبدالله سيف الحوسني",
+    "id": 687
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224620130041,
+    "name_en": "Fisal Mohammed Rashid Al Breiki",
+    "name_ar": "فيصل محمد راشد البريكي",
+    "id": 688
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 28720140023,
+    "name_en": "Faisal Mohammed Salim Said Al Masoudi",
+    "name_ar": "فيصل محمد سالم سعيد المسعودي",
+    "id": 689
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 20920140018,
+    "name_en": "Qaboos Said Abdullah Nasser Al Khaldi",
+    "name_ar": "قابوس سعيد عبدالله ناصر الخالدي",
+    "id": 690
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 24720140004,
+    "name_en": "Qutaiba Naji Murad Said Al Zadjali",
+    "name_ar": "قتيبة ناجي مراد سعيد الزدجالي",
+    "id": 691
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 28720120021,
+    "name_en": "Qutiba Nasser Mohammed Al Breiki",
+    "name_ar": "قتيبة ناصر محمد البريكي",
+    "id": 692
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 25920120097,
+    "name_en": "Qusai Khalid Majid Al Masaudi",
+    "name_ar": "قصي خالد ماجد المسعودي",
+    "id": 693
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 20920140040,
+    "name_en": "Qusay Said Juma Al Breiki",
+    "name_ar": "قصي سعيد جمعه البريكي",
+    "id": 694
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224020130036,
+    "name_en": "Qusay Adnan Juma Al Breiki",
+    "name_ar": "قصي عدنان جمعه البريكي",
+    "id": 695
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 221820160042,
+    "name_en": "Qusay Qasim Mohammed 'Abdullah Al Za'Abi",
+    "name_ar": "قصي قاسم محمد عبدالله الزعابي",
+    "id": 696
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620120120,
+    "name_en": "Qusai Qais Obaid Al Saeedi",
+    "name_ar": "قصي قيس عبيد السعيدي",
+    "id": 697
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224020100203,
+    "name_en": "Qusay Mubarak Mohammed Al-Breiki",
+    "name_ar": "قصي مبارك محمد البريكي",
+    "id": 698
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224020150081,
+    "name_en": "Qias Mohammed Musabah Mohammed Al Breiki",
+    "name_ar": "قيس محمد مصبح محمد البريكي",
+    "id": 699
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520160123,
+    "name_en": "Qaisar 'Abdullah Salim 'Abdullah Al-Breiki",
+    "name_ar": "قيصر عبدالله سالم عبدالله البريكي",
+    "id": 700
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150158,
+    "name_en": "Loai Salim Mohammed 'Abdullah Alsa'Idi",
+    "name_ar": "لؤي سالم محمد عبدالله السعيدي",
+    "id": 701
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150108,
+    "name_en": "Luqman Ali Salim Hassan Al Breiki",
+    "name_ar": "لقمان علي سالم حسن البريكي",
+    "id": 702
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 27520160036,
+    "name_en": "Laith Salim Said Salim Al Saidi",
+    "name_ar": "ليث سالم سعيد سالم السعيدي",
+    "id": 703
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 220420150113,
+    "name_en": "Muayid Hamed Rashid Al Mariki",
+    "name_ar": "مؤيد حمد راشد المريكي",
+    "id": 704
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224620110086,
+    "name_en": "Moaeid Khalid Subaa Alsaidi",
+    "name_ar": "مؤيد خالد سباع السعيدي",
+    "id": 705
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620140048,
+    "name_en": "Muayid Abdullah Salim Al Fazzari",
+    "name_ar": "مؤيد عبدالله سالم الفزاري",
+    "id": 706
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 25920120104,
+    "name_en": "Majid Said Majid Al Masoudi",
+    "name_ar": "ماجد سعيد ماجد المسعودي",
+    "id": 707
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 28720130062,
+    "name_en": "Mazen Rashid Salim Al Breiki",
+    "name_ar": "مازن راشد سالم البريكي",
+    "id": 708
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224220150013,
+    "name_en": "Mazen Salim Khusaif Musabah Al Breiki",
+    "name_ar": "مازن سالم خصيف مصبح البريكي",
+    "id": 709
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224220150095,
+    "name_en": "Mazin Salim Darwish Nasser Al-Mamari",
+    "name_ar": "مازن سالم درويش ناصر المعمري",
+    "id": 710
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 25320160016,
+    "name_en": "Mazin Naji Mubarak Salim Al Barami",
+    "name_ar": "مازن ناجي مبارك سالم البرامي",
+    "id": 711
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 24720130044,
+    "name_en": "Malek Khalifa Said Al-Kendi",
+    "name_ar": "مالك خليفه سعيد الكندي",
+    "id": 712
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224220120113,
+    "name_en": "Malik Marhoun Matar Alsaidi",
+    "name_ar": "مالك مرهون مطر السعيدي",
+    "id": 713
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224020130020,
+    "name_en": "Mahal Obaid Mahal Al Breiki",
+    "name_ar": "ماهل عبيد ماهل البريكي",
+    "id": 714
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224520150094,
+    "name_en": "Mubarak Faisal Mubarak 'Obaid Al Fazari",
+    "name_ar": "مبارك فيصل مبارك عبيد الفزاري",
+    "id": 715
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224520160082,
+    "name_en": "Mubarak Mahnad Mubarak Shinain Al Hamdani",
+    "name_ar": "مبارك مهند مبارك شنين الحمداني",
+    "id": 716
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 27520160019,
+    "name_en": "Mohammed Ahmed Juma Ali Al-Breiki",
+    "name_ar": "محمد أحمد جمعه علي البريكي",
+    "id": 717
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224520140064,
+    "name_en": "Mohammed Ahmed Khalfan Al-Breiki",
+    "name_ar": "محمد أحمد خلفان البريكي",
+    "id": 718
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224520160014,
+    "name_en": "Mohammed Ahmed Khamis Mohammed Al-Masaoudi",
+    "name_ar": "محمد أحمد خميس محمد المسعودي",
+    "id": 719
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 28820120066,
+    "name_en": "Mohammed Ahmed Rashid Al-Fazari",
+    "name_ar": "محمد أحمد راشد الفزاري",
+    "id": 720
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 221820160049,
+    "name_en": "Mohammed Ahmed 'Abdallah Salim Al-Fazari",
+    "name_ar": "محمد أحمد عبدالله سالم الفزاري",
+    "id": 721
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224520140037,
+    "name_en": "Mohammed Ahmed Mohammed Al-Breiki",
+    "name_ar": "محمد أحمد محمد البريكي",
+    "id": 722
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140056,
+    "name_en": "Mohammed Ahmed Mohammed Al-Ghamlasi",
+    "name_ar": "محمد أحمد محمد الغملاسي",
+    "id": 723
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 28720120028,
+    "name_en": "Mohammed Ahmed Mohamed Al-Fazari",
+    "name_ar": "محمد أحمد محمد الفزاري",
+    "id": 724
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160074,
+    "name_en": "Mohammed Ibrahim 'Abdullah Ali Al Za'Abi",
+    "name_ar": "محمد ابراهيم عبدالله علي الزعابي",
+    "id": 725
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 221820150019,
+    "name_en": "Mohammed Ahmed Juma Salim Al-Zaabi",
+    "name_ar": "محمد احمد جمعه سالم الزعابى",
+    "id": 726
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 215520160096,
+    "name_en": "Mohammed Ahmed 'Amur Mohammed Al Ghaithi",
+    "name_ar": "محمد احمد عامر محمد الغيثي",
+    "id": 727
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224620100389,
+    "name_en": "Mohammed Ahmed Ali Said Alsaidi",
+    "name_ar": "محمد احمد علي سعيد السعيدي",
+    "id": 728
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224620130036,
+    "name_en": "Mohmmaed Ahmed Mohammed Al Maharzi",
+    "name_ar": "محمد احمد محمد المحرزي",
+    "id": 729
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224620150069,
+    "name_en": "Mohammed Ahmed Mohammed Ta'Eeb Al Balushi",
+    "name_ar": "محمد احمد محمد تعيب البلوشي",
+    "id": 730
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 27520120056,
+    "name_en": "Mohmmed Asad Salim Al Zaidi",
+    "name_ar": "محمد اسد سالم الزيدي",
+    "id": 731
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150023,
+    "name_en": "Mohammed Badar Rashid Ali Al Breiki",
+    "name_ar": "محمد بدر راشد علي البريكي",
+    "id": 732
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224020150063,
+    "name_en": "Mohammed Badar Nasser Habush Al Balushi",
+    "name_ar": "محمد بدر ناصر حبوش البلوشي",
+    "id": 733
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224220150059,
+    "name_en": "Mohammed Bashir Abdullah Bashir Al Shidi",
+    "name_ar": "محمد بشير عبدالله بشير الشيدي",
+    "id": 734
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 220420160046,
+    "name_en": "Mohammed Thani Salim Hamed Al Sharqi",
+    "name_ar": "محمد ثاني سالم حمد الشرقي",
+    "id": 735
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224020160001,
+    "name_en": "Mohammed Jasim Khamis Hamed Al Breiki",
+    "name_ar": "محمد جاسم خميس حمد البريكي",
+    "id": 736
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 221820150054,
+    "name_en": "Mohammed Jasim Shinain 'Abdallah Al-Qutaiti",
+    "name_ar": "محمد جاسم شنين عبدالله القطيطي",
+    "id": 737
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224020130012,
+    "name_en": "Mohammed Juma Salim Al Breiki",
+    "name_ar": "محمد جمعه سالم البريكي",
+    "id": 738
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020130004,
+    "name_en": "Mohammed Juma Said Al-Breiki",
+    "name_ar": "محمد جمعه سعيد البريكي",
+    "id": 739
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224020190187,
+    "name_en": "Mohammed Juma Mohammed Shinain Al Breiki",
+    "name_ar": "محمد جمعه محمد شنين البريكي",
+    "id": 740
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 25920120108,
+    "name_en": "Mohammed Hamed Khamis Al Breiki",
+    "name_ar": "محمد حمد خميس البريكي",
+    "id": 741
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224520150025,
+    "name_en": "Mohammed Hamed Rabi'A Salim Al Fazari",
+    "name_ar": "محمد حمد ربيع سالم الفزاري",
+    "id": 742
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224620160065,
+    "name_en": "Mohammed Hamed Mas'Oud Salim Al Hamdani",
+    "name_ar": "محمد حمد مسعود سالم الحمداني",
+    "id": 743
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224020160034,
+    "name_en": "Mohammed Khalid Juma Ali Al Breiki",
+    "name_ar": "محمد خالد جمعه علي البريكي",
+    "id": 744
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224520150033,
+    "name_en": "Mohammed Khalfan Khamis Mubarak Al Breiki",
+    "name_ar": "محمد خلفان خميس مبارك البريكي",
+    "id": 745
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224520160032,
+    "name_en": "Mohammed Khalfan Rashid Humaid Al Breiki",
+    "name_ar": "محمد خلفان راشد حميد البريكي",
+    "id": 746
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520100003,
+    "name_en": "Mohammed Khalfan Said Al-Breiki",
+    "name_ar": "محمد خلفان سعيد البريكي",
+    "id": 747
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224020160058,
+    "name_en": "Mohammed Khalfan Said Mohammed Al Breiki",
+    "name_ar": "محمد خلفان سعيد محمد البريكي",
+    "id": 748
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224620140076,
+    "name_en": "Mohammed Khalfan Mubarak Al Hamdani",
+    "name_ar": "محمد خلفان مبارك الحمداني",
+    "id": 749
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150044,
+    "name_en": "Mohammed Khalifa Salim Al Fazari",
+    "name_ar": "محمد خليفه سالم الفزاري",
+    "id": 750
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 28720140043,
+    "name_en": "Mohammed Khalifa Said Ali Al-Kendi",
+    "name_ar": "محمد خليفه سعيد علي الكندي",
+    "id": 751
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 20920120172,
+    "name_en": "Mohammed Khalifa Mohammed Al Fazari",
+    "name_ar": "محمد خليفه محمد الفزاري",
+    "id": 752
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160011,
+    "name_en": "Mohammed Khamis Khalfan Mubarak Al Quraini",
+    "name_ar": "محمد خميس خلفان مبارك القريني",
+    "id": 753
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224620150028,
+    "name_en": "Mohammed Khamis Ali Mohammed Al Quraini",
+    "name_ar": "محمد خميس علي محمد القريني",
+    "id": 754
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 24720160032,
+    "name_en": "Mohammed Khamis Mohammed Al-Hamdani",
+    "name_ar": "محمد خميس محمد الحمداني",
+    "id": 755
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224320140021,
+    "name_en": "Mohammed Khamis Mohammed Al Mamari",
+    "name_ar": "محمد خميس محمد المعمري",
+    "id": 756
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224620130018,
+    "name_en": "Mohammed Rashid Hamed Al Sinani",
+    "name_ar": "محمد راشد حمد السناني",
+    "id": 757
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 28720130035,
+    "name_en": "Mohammed Rashid Khalfan Said Alsa'Idi",
+    "name_ar": "محمد راشد خلفان سعيد السعيدي",
+    "id": 758
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224520140018,
+    "name_en": "Mohammed Rashid Mohammed Al Breiki",
+    "name_ar": "محمد راشد محمد البريكي",
+    "id": 759
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 223720160159,
+    "name_en": "Mohammed Rashid Mohammed Rashid Al Breiki",
+    "name_ar": "محمد راشد محمد راشد البريكي",
+    "id": 760
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 20920120214,
+    "name_en": "Mohammed Salim Juma Al Breiki",
+    "name_ar": "محمد سالم جمعه البريكي",
+    "id": 761
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 24720130041,
+    "name_en": "Moahmmed Salim Rashid Al Breiki",
+    "name_ar": "محمد سالم راشد البريكي",
+    "id": 762
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 610720160016,
+    "name_en": "Mohammed Salim Shinain Said Al Breiki",
+    "name_ar": "محمد سالم شنين سعيد البريكي",
+    "id": 763
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224220140075,
+    "name_en": "Mohammed Salim Abdullah Al Qartoubi",
+    "name_ar": "محمد سالم عبدالله القرطوبي",
+    "id": 764
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520150081,
+    "name_en": "Mohammed Salim Abdallah Ali Al-Zaabi",
+    "name_ar": "محمد سالم عبدالله علي الزعابي",
+    "id": 765
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224520130026,
+    "name_en": "Mohammed Salim Mohammed Al Fazari",
+    "name_ar": "محمد سالم محمد الفزاري",
+    "id": 766
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150111,
+    "name_en": "Mohammed Sami Mohammed Hamed Al Fazari",
+    "name_ar": "محمد سامي محمد حمد الفزاري",
+    "id": 767
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 221820140125,
+    "name_en": "Mohammed Saad Tshar Shambeh",
+    "name_ar": "محمد سعد تشار شمبيه",
+    "id": 768
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224520130061,
+    "name_en": "Mohammed Said Thani Al Fazari",
+    "name_ar": "محمد سعيد ثاني الفزاري",
+    "id": 769
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224520160084,
+    "name_en": "Mohammed Said Khalfan Salim Al Kindi",
+    "name_ar": "محمد سعيد خلفان سالم الكندي",
+    "id": 770
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150161,
+    "name_en": "Mohammed Said Khalfan Saif Al Sinani",
+    "name_ar": "محمد سعيد خلفان سيف السناني",
+    "id": 771
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224020130080,
+    "name_en": "Mohammed Said Khamis Al Breiki",
+    "name_ar": "محمد سعيد خميس البريكي",
+    "id": 772
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224620120031,
+    "name_en": "Mohammed Said Khamis Al Muhairzi",
+    "name_ar": "محمد سعيد خميس المحيرزي",
+    "id": 773
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150121,
+    "name_en": "Mohammed Said 'Abdullah Al-Fazari",
+    "name_ar": "محمد سعيد عبدالله الفزاري",
+    "id": 774
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150018,
+    "name_en": "Mohammed Said 'Abdullah Khamis Al Marzouqi",
+    "name_ar": "محمد سعيد عبدالله خميس المرزوقي",
+    "id": 775
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224520140042,
+    "name_en": "Mohammed Said Mohammed Al Fazari",
+    "name_ar": "محمد سعيد محمد الفزاري",
+    "id": 776
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 711820160018,
+    "name_en": "Mohammed Said Mohammed Al-Mezeini",
+    "name_ar": "محمد سعيد محمد المزيني",
+    "id": 777
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 27520140006,
+    "name_en": "Mohammed Said Mohammed Nasser Al Fazari",
+    "name_ar": "محمد سعيد محمد ناصر الفزاري",
+    "id": 778
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 27520150017,
+    "name_en": "Mohammed Sultan 'Obaid Hamed Al Mahrezi",
+    "name_ar": "محمد سلطان عبيد حمد المحرزي",
+    "id": 779
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224620140090,
+    "name_en": "Mohammed Sulaiman Mohammed Al Mamari",
+    "name_ar": "محمد سليمان محمد المعمري",
+    "id": 780
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 220420110047,
+    "name_en": "Mohammed Shinain Mohammed Al Breiki",
+    "name_ar": "محمد شنين محمد البريكي",
+    "id": 781
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224520140040,
+    "name_en": "Mohammed Sudiq Hassan Al Fazari",
+    "name_ar": "محمد صديق حسن الفزاري",
+    "id": 782
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 220420120091,
+    "name_en": "Mohammed Taher Mohammed Al Mezeini",
+    "name_ar": "محمد طاهر محمد المزيني",
+    "id": 783
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520160080,
+    "name_en": "Mohammed 'Adil Mohammed Ali Al Breiki",
+    "name_ar": "محمد عادل محمد علي البريكي",
+    "id": 784
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 611520140035,
+    "name_en": "Mohammed Amur Abdullah Al Fizari",
+    "name_ar": "محمد عامر عبدالله الفزاري",
+    "id": 785
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224020150140,
+    "name_en": "Mohammed Abdullah Humeid Bayat Al Breiki",
+    "name_ar": "محمد عبدالله حميد بيات البريكي",
+    "id": 786
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224020130055,
+    "name_en": "Mohammed Abdullah Khalfan Al Breiki",
+    "name_ar": "محمد عبدالله خلفان البريكي",
+    "id": 787
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 28920140008,
+    "name_en": "Mohammed Abdullah Khamis Mahmood Al Zadjali",
+    "name_ar": "محمد عبدالله خميس محمود الزدجالي",
+    "id": 788
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160073,
+    "name_en": "Mohammed Abdullah Rashid Abdullah Al Braiki",
+    "name_ar": "محمد عبدالله راشد عبدالله البريكي",
+    "id": 789
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224520140038,
+    "name_en": "Mohammed Abdallah Salim Al Breiki",
+    "name_ar": "محمد عبدالله سالم البريكي",
+    "id": 790
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224620140082,
+    "name_en": "Mohammed Abdullah Said Al Saeedi",
+    "name_ar": "محمد عبدالله سعيد السعيدي",
+    "id": 791
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224520130037,
+    "name_en": "Mohammed Abdullah Said Al Fazari",
+    "name_ar": "محمد عبدالله سعيد الفزاري",
+    "id": 792
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224020130103,
+    "name_en": "Mohammed Abdullah Said Al Fazari",
+    "name_ar": "محمد عبدالله سعيد الفزاري",
+    "id": 793
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 28820130027,
+    "name_en": "Mohammed Abdullah Ali Al Abdul Salam",
+    "name_ar": "محمد عبدالله علي آل عبدالسلام",
+    "id": 794
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224520140002,
+    "name_en": "Mohammed Abdullah Ali Al Breiki",
+    "name_ar": "محمد عبدالله علي البريكي",
+    "id": 795
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224520130046,
+    "name_en": "Mohammed Abdullah Ali Al Breiki",
+    "name_ar": "محمد عبدالله علي البريكي",
+    "id": 796
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 28720120007,
+    "name_en": "Mohammed Abdallah Gharib Al Abdul Sallam",
+    "name_ar": "محمد عبدالله غريب آل عبدالسلام",
+    "id": 797
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224220130006,
+    "name_en": "Mohammed Abdallah Farhan Al Abdul Salam",
+    "name_ar": "محمد عبدالله فرحان آل عبدالسلام",
+    "id": 798
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224020140054,
+    "name_en": "Mohammed Abdullah Mohammed Al Breiki",
+    "name_ar": "محمد عبدالله محمد البريكي",
+    "id": 799
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 20920130093,
+    "name_en": "Mohammed Abdullah Mohammed Khalfan Al Breiki",
+    "name_ar": "محمد عبدالله محمد خلفان البريكي",
+    "id": 800
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160014,
+    "name_en": "Mohammed 'Abdallah Mohammed Rashid Al-Fazari",
+    "name_ar": "محمد عبدالله محمد راشد الفزاري",
+    "id": 801
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224220150084,
+    "name_en": "Mohammed Othman Mohammed Abdallah Al Maamari",
+    "name_ar": "محمد عثمان محمد عبدالله المعمري",
+    "id": 802
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 240420150006,
+    "name_en": "Mohammed Ali Juma Harib Al Mezeini",
+    "name_ar": "محمد علي جمعه حارب المزيني",
+    "id": 803
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160106,
+    "name_en": "Mohammed Ali Juma Salim Alshehhi",
+    "name_ar": "محمد علي جمعه سالم الشحي",
+    "id": 804
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 215520160127,
+    "name_en": "Mohammed Ali Hassan Abdullah Al Breiki",
+    "name_ar": "محمد علي حسن عبدالله البريكي",
+    "id": 805
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 29620140015,
+    "name_en": "Mohammed Ali Rashid Khalfan Al Kahali",
+    "name_ar": "محمد علي راشد خلفان الكحالي",
+    "id": 806
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520150092,
+    "name_en": "Mohammed Ali Rashid Ali Al Fazari",
+    "name_ar": "محمد علي راشد علي الفزاري",
+    "id": 807
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224620150026,
+    "name_en": "Mohammed Ali Rashid Mohammed Al Fazari",
+    "name_ar": "محمد علي راشد محمد الفزاري",
+    "id": 808
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224020140035,
+    "name_en": "Mohamed Ali Salim Al Breiki",
+    "name_ar": "محمد علي سالم البريكي",
+    "id": 809
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224220160032,
+    "name_en": "Mohammed Ali Salim Said Al-Saaidi",
+    "name_ar": "محمد علي سالم سعيد السعيدي",
+    "id": 810
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224120130091,
+    "name_en": "Mohammed Ali Amur Al Mashrafi",
+    "name_ar": "محمد علي عامر المشرفي",
+    "id": 811
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224020140016,
+    "name_en": "Mohammed Ali Mohammed Alzaabi",
+    "name_ar": "محمد علي محمد الزعابي",
+    "id": 812
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224620160165,
+    "name_en": "Mohammed Ali Mohammed Obaid Almuhrzi",
+    "name_ar": "محمد علي محمد عبيد المحرزي",
+    "id": 813
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224620160027,
+    "name_en": "Mohammed Ali Mohammed Ali Al Mahairazi",
+    "name_ar": "محمد علي محمد علي المحيرزي",
+    "id": 814
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224520150031,
+    "name_en": "Mohammed Ali Mohammed Gharib Al Fazari",
+    "name_ar": "محمد علي محمد غريب الفزاري",
+    "id": 815
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160004,
+    "name_en": "Mohammed Ali Mohammed Mubarak Al 'Abdul Salam",
+    "name_ar": "محمد علي محمد مبارك آل عبدالسلام",
+    "id": 816
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 221820140072,
+    "name_en": "Mohammed Gharib Juma Al Zaabi",
+    "name_ar": "محمد غريب جمعه الزعابي",
+    "id": 817
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 224520130007,
+    "name_en": "Mohammed Fadhil Mohammed Al-Fazari",
+    "name_ar": "محمد فاضل محمد الفزاري",
+    "id": 818
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 20820150038,
+    "name_en": "Mohammed Qasim Juma Harib Al Mezeini",
+    "name_ar": "محمد قاسم جمعه حارب المزيني",
+    "id": 819
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 221820140060,
+    "name_en": "Mohammed Qasim Mohammed Al Ajmi",
+    "name_ar": "محمد قاسم محمد العجمي",
+    "id": 820
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620150072,
+    "name_en": "Mohammed Mubarak Juma Mubarak Al Fazari",
+    "name_ar": "محمد مبارك جمعه مبارك الفزاري",
+    "id": 821
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 28720160005,
+    "name_en": "Mohammed Mubarak Salim Said Al Breiki",
+    "name_ar": "محمد مبارك سالم سعيد البريكي",
+    "id": 822
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224020150138,
+    "name_en": "Mohammed Mubarak Mohammed Mubarak Al Ghamallasi",
+    "name_ar": "محمد مبارك محمد مبارك الغملاسي",
+    "id": 823
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160064,
+    "name_en": "Muhommed Mas'Oud 'Amur Rashid Al Sinani",
+    "name_ar": "محمد مسعود عامر راشد السناني",
+    "id": 824
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620130013,
+    "name_en": "Mohammed Muslem Khamis Al Badi",
+    "name_ar": "محمد مسلم خميس البادي",
+    "id": 825
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150026,
+    "name_en": "Mohommed Musabah Said Musabah Al Breiki",
+    "name_ar": "محمد مصبح سعيد م��بح البريكي",
+    "id": 826
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224620140004,
+    "name_en": "Mohammed Moosa Ahmed Al Hamadani",
+    "name_ar": "محمد موسى أحمد الحمداني",
+    "id": 827
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150132,
+    "name_en": "Mohammed Nasser Salim Said Alsa'Idi",
+    "name_ar": "محمد ناصر سالم سعيد السعيدي",
+    "id": 828
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 21620130051,
+    "name_en": "Mohammed Nasser Saif Al-Dhahli",
+    "name_ar": "محمد ناصر سيف الذهلي",
+    "id": 829
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 224620150148,
+    "name_en": "Mohammed Nasser 'Abdullah Mohammed Al Fazari",
+    "name_ar": "محمد ناصر عبدالله محمد الفزاري",
+    "id": 830
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224220150174,
+    "name_en": "Mohammed Nasser Mohammed Al-Breiki",
+    "name_ar": "محمد ناصر محمد البريكي",
+    "id": 831
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 29920140036,
+    "name_en": "Mohammed Nasser Mohammed Said Al Quraini",
+    "name_ar": "محمد ناصر محمد سعيد القريني",
+    "id": 832
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224220140121,
+    "name_en": "Mohammed Naser Salim Alsaidi",
+    "name_ar": "محمد نصر سالم السعيدي",
+    "id": 833
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 28720130038,
+    "name_en": "Mohammed Hashil Salim Khamis Al Breiki",
+    "name_ar": "محمد هاشل سالم خميس البريكي",
+    "id": 834
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 28820120027,
+    "name_en": "Mohammed Hilal Khalfan  Al Shihhi",
+    "name_ar": "محمد هلال خلفان  الشحي",
+    "id": 835
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224520160071,
+    "name_en": "Mohammed Hilal Salim Sulaiman Al Fazari",
+    "name_ar": "محمد هلال سالم سليمان الفزاري",
+    "id": 836
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224120160094,
+    "name_en": "Mohammed Hilal Said 'Abdullah Al Rushdi",
+    "name_ar": "محمد هلال سعيد عبدالله الروشدي",
+    "id": 837
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224620130072,
+    "name_en": "Mohammed Hilal Saif Al Balushi",
+    "name_ar": "محمد هلال سيف البلوشي",
+    "id": 838
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224620140013,
+    "name_en": "Mohammed Hilal Mohammed Al Fazari",
+    "name_ar": "محمد هلال محمد الفزاري",
+    "id": 839
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 24720130042,
+    "name_en": "Mohammed Yosef Said Al-Breiki",
+    "name_ar": "محمد يوسف سعيد البريكي",
+    "id": 840
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520160070,
+    "name_en": "Mohammed Yousuf Mubarak Yousuf Al Kindi",
+    "name_ar": "محمد يوسف مبارك يوسف الكندي",
+    "id": 841
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224220160158,
+    "name_en": "Mohammed Yousuf Mohammed 'Obaid Al Ma'Mari",
+    "name_ar": "محمد يوسف محمد عبيد المعمري",
+    "id": 842
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224320120109,
+    "name_en": "Mahmood Ashraf Mohammed Al-Mezeini",
+    "name_ar": "محمود أشرف محمد المزيني",
+    "id": 843
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224620150051,
+    "name_en": "Mahmood Jasim Mohamed Salim Al Fazari",
+    "name_ar": "محمود جاسم محمد سالم الفزاري",
+    "id": 844
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224020110069,
+    "name_en": "Mahmood Khalfan Shinain Al Biraiki",
+    "name_ar": "محمود خلفان شنين البريكي",
+    "id": 845
+  },
+  {
+    "section": 5,
+    "grade": 10,
+    "student_number": 224520140079,
+    "name_en": "Mahmood Khamis Mohammed Al Fazari",
+    "name_ar": "محمود خميس محمد الفزاري",
+    "id": 846
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150137,
+    "name_en": "Mahmood Said 'Abdullah Al Breiki",
+    "name_ar": "محمود سعيد عبدالله البريكي",
+    "id": 847
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224320140125,
+    "name_en": "Mahmood Mohammed Juma Al Marzouqi",
+    "name_ar": "محمود محمد جمعه المرزوقي",
+    "id": 848
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 220220240001,
+    "name_en": "Mahamoud Mohamed Younis Younis",
+    "name_ar": "محمود محمد كمال يونس",
+    "id": 849
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224620160026,
+    "name_en": "Marwan Ali 'Abdullah Mohammed Al Fazari",
+    "name_ar": "مروان علي عبدالله محمد الفزاري",
+    "id": 850
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224620160063,
+    "name_en": "Meshari Ali Mohammed Said Al-Hamdani",
+    "name_ar": "مشاري علي محمد سعيد الحمداني",
+    "id": 851
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224020120088,
+    "name_en": "Meshari Mohammed Salim Al Breiki",
+    "name_ar": "مشاري محمد سالم البريكي",
+    "id": 852
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224020150080,
+    "name_en": "Musabah Waheed Musabah Juma Al Breiki",
+    "name_ar": "مصبح وحيد مصبح جمعه البريكي",
+    "id": 853
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 815220130102,
+    "name_en": "Mostfa Darwish Said Al Breiki",
+    "name_ar": "مصطفى درويش سعيد البريكي",
+    "id": 854
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 241620100262,
+    "name_en": "Musaab Khamis Mubarak Al-Kalbani",
+    "name_ar": "مصعب خميس مبارك الكلباني",
+    "id": 855
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224320120098,
+    "name_en": "Musab Nabil Gharib Al Balushi",
+    "name_ar": "مصعب نبيل غريب البلوشي",
+    "id": 856
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 224620150079,
+    "name_en": "Muath Hamed Matar Hamed Al-Mahairzi",
+    "name_ar": "معاذ حمد مطر حمد المحيرزي",
+    "id": 857
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 24720130019,
+    "name_en": "Muaadh Humaid Salim Humaid Alsaaidi",
+    "name_ar": "معاذ حميد سالم حميد السعيدي",
+    "id": 858
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 24720140013,
+    "name_en": "Muaadh Salim Hamed Al Fazari",
+    "name_ar": "معاذ سالم حمد الفزاري",
+    "id": 859
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224620160119,
+    "name_en": "Muaath 'Abdullah Khalfan Saif Al Sinani",
+    "name_ar": "معاذ عبدالله خلفان سيف السناني",
+    "id": 860
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620130077,
+    "name_en": "Muaadh Abdullah Mohammed Al Saidi",
+    "name_ar": "معاذ عبدالله محمد السعيدي",
+    "id": 861
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 221820150123,
+    "name_en": "Moawiyah Shabib Khalifa Al Balushi",
+    "name_ar": "معاويه شبيب خليفه البلوشي",
+    "id": 862
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 29620140037,
+    "name_en": "Mataz Khalfan Gharib Al Breiki",
+    "name_ar": "معتز خلفان غريب البريكي",
+    "id": 863
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224520140006,
+    "name_en": "Muataz Ali Mohammed Al Breiki",
+    "name_ar": "معتز علي محمد البريكي",
+    "id": 864
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224220130096,
+    "name_en": "Muean Abdullah Rashid Al Breiki",
+    "name_ar": "معن عبدالله راشد البريكي",
+    "id": 865
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224520120004,
+    "name_en": "Maktoom Rashid Mohammed Al Breiki",
+    "name_ar": "مكتوم راشد محمد البريكي",
+    "id": 866
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 224520160073,
+    "name_en": "Mulhem Ahmed 'Abdallah Mohammed Al-Breiki",
+    "name_ar": "ملهم أحمد عبدالله محمد البريكي",
+    "id": 867
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224320100060,
+    "name_en": "Muntasar Abdallah Ali Al-Mezeini",
+    "name_ar": "منتصر عبدالله علي المزيني",
+    "id": 868
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224220150054,
+    "name_en": "Muntaser Mansoor Khalfan Salim Al Shamousi",
+    "name_ar": "منتصر منصور خلفان سالم الشموسي",
+    "id": 869
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 724820110148,
+    "name_en": "Monther Ali Mohammed Al Hinai",
+    "name_ar": "منذر علي محمد الهنائي",
+    "id": 870
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224220150079,
+    "name_en": "Mansoor Khalid Nasser Salman Al Breiki",
+    "name_ar": "منصور خالد ناصر سلمان البريكي",
+    "id": 871
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224520150004,
+    "name_en": "Mansour Khalifa Ali Hashil Al Kindi",
+    "name_ar": "منصور خليفه علي هاشل الكندي",
+    "id": 872
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224020140059,
+    "name_en": "Mansoor Khamis Shinain Al Breiki",
+    "name_ar": "منصور خميس شنين البريكي",
+    "id": 873
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224520140003,
+    "name_en": "Mansour Zayid Saif Al Kindi",
+    "name_ar": "منصور زايد سيف الكندي",
+    "id": 874
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224020150058,
+    "name_en": "Mansor Salim Khalfan Salim Al Badi",
+    "name_ar": "منصور سالم خلفان سالم البادي",
+    "id": 875
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150136,
+    "name_en": "Mansour Saif Nasser Rashid Al Sinani",
+    "name_ar": "منصور سيف ناصر راشد السناني",
+    "id": 876
+  },
+  {
+    "section": 6,
+    "grade": 9,
+    "student_number": 20920160023,
+    "name_en": "Mansour Nasser Salem Said Al Buraiki",
+    "name_ar": "منصور ناصر سالم سعيد البريكي",
+    "id": 877
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140074,
+    "name_en": "Muhana Said Mubarak Al Ghamallasi",
+    "name_ar": "مهنا سعيد مبارك الغملاسي",
+    "id": 878
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 223720120091,
+    "name_en": "Muhanad Juma Said Al Kahali",
+    "name_ar": "مهند جمعه سعيد الكحالي",
+    "id": 879
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620120072,
+    "name_en": "Muhanad Rashid Mubarak Al Fazari",
+    "name_ar": "مهند راشد مبارك الفزاري",
+    "id": 880
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150078,
+    "name_en": "Muhnad Salim Mohammed Al Saeedi",
+    "name_ar": "مهند سالم محمد السعيدي",
+    "id": 881
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224520150077,
+    "name_en": "Muhanad Saif Mohammed Al Breiki",
+    "name_ar": "مهند سيف محمد البريكي",
+    "id": 882
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224520140061,
+    "name_en": "Muhimin Khalifa Zayid Al-Mahrezi",
+    "name_ar": "مهيمن خليفه زايد المحرزي",
+    "id": 883
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224520150095,
+    "name_en": "Moosa Hamed Moosa Al-Zadjali",
+    "name_ar": "موسى حمد موسى الزدجالي",
+    "id": 884
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 20920150013,
+    "name_en": "Moosa Salim Ali 'Abdullah Alsa'Idi",
+    "name_ar": "موسى سالم علي عبدالله السعيدي",
+    "id": 885
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 224520160039,
+    "name_en": "Moosa Abdallah Salim Mohammed Al Breiki",
+    "name_ar": "موسى عبدالله سالم محمد البريكي",
+    "id": 886
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224520130060,
+    "name_en": "Nasser Ahmed Rashid Al-Breiki",
+    "name_ar": "ناصر أحمد راشد البريكي",
+    "id": 887
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620140024,
+    "name_en": "Naser Khalifa Khamis Alowaisi",
+    "name_ar": "ناصر خليفه خميس العويسي",
+    "id": 888
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 20920130039,
+    "name_en": "Naseer Khalifa Sulaiman Al-Badi",
+    "name_ar": "ناصر خليفه سليمان البادي",
+    "id": 889
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224620120117,
+    "name_en": "Nasser Salim Mohammed Al Zeidi",
+    "name_ar": "ناصر سالم محمد الزيدي",
+    "id": 890
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 29620140002,
+    "name_en": "Nasser Said Nasser Said Al-Mamari",
+    "name_ar": "ناصر سعيد ناصر سعيد المعمري",
+    "id": 891
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 21620130052,
+    "name_en": "Nasser Mohammed Nasser Al Badi",
+    "name_ar": "ناصر محمد ناصر البادي",
+    "id": 892
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224520150022,
+    "name_en": "Naif Ahmed Juma Obaid Al-Hamdani",
+    "name_ar": "نايف أحمد جمعه عبيد الحمداني",
+    "id": 893
+  },
+  {
+    "section": 5,
+    "grade": 9,
+    "student_number": 224020160069,
+    "name_en": "Naif Ali Hassan Said Al Breiki",
+    "name_ar": "نايف علي حسن سعيد البريكي",
+    "id": 894
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 223720140042,
+    "name_en": "Naif Ali Rashid Alloughani",
+    "name_ar": "نايف علي راشد اللوغاني",
+    "id": 895
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 20920140099,
+    "name_en": "Nayef Mohammed Khalfan Shinain Al Breiki",
+    "name_ar": "نايف محمد خلفان شنين البريكي",
+    "id": 896
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224620140034,
+    "name_en": "Nebras Abdullah Hamdan Al Hosni",
+    "name_ar": "نبراس عبدالله حمدان الحوسني",
+    "id": 897
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224620160025,
+    "name_en": "Naser Salim Rashid Mohammed Al Fazari",
+    "name_ar": "نصر سالم راشد محمد الفزاري",
+    "id": 898
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224020130084,
+    "name_en": "Nasr Mohammed Said Al-Breiki",
+    "name_ar": "نصر محمد سعيد البريكي",
+    "id": 899
+  },
+  {
+    "section": 2,
+    "grade": 12,
+    "student_number": 224620120094,
+    "name_en": "Nser Nasser Ali Nasser Al Freesi",
+    "name_ar": "نصر ناصر علي ناصر الفريسي",
+    "id": 900
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 223920150146,
+    "name_en": "Nawaf Salim Mohamed Al Zidi",
+    "name_ar": "نواف سالم محمد الزيدي",
+    "id": 901
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224220140001,
+    "name_en": "Nawaf Abdullah Suidan Al Abdul Sallam",
+    "name_ar": "نواف عبدالله سويدان آل عبدالسلام",
+    "id": 902
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224020140057,
+    "name_en": "Nawaf Mohammed Khalfan Al Breiki",
+    "name_ar": "نواف محمد خلفان البريكي",
+    "id": 903
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160036,
+    "name_en": "Nawaf Mohammed Rashid Salmeen Al Breiki",
+    "name_ar": "نواف محمد راشد سالمين البريكي",
+    "id": 904
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620150108,
+    "name_en": "Nooh Mohammed 'Abdullah Hamdan Al Shidi",
+    "name_ar": "نوح محمد عبدالله حمدان الشيدي",
+    "id": 905
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224520140070,
+    "name_en": "Nooh Nasser Said Al Ghafri",
+    "name_ar": "نوح ناصر سعيد الغافري",
+    "id": 906
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 220720200002,
+    "name_en": "Norullah Mazen Mohamed Saibah",
+    "name_ar": "نورالله مازن محمد صبيعه",
+    "id": 907
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224520130058,
+    "name_en": "Hashem Hamdan Mubarak Al Fazari",
+    "name_ar": "هاشم حمدان مبارك الفزاري",
+    "id": 908
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140040,
+    "name_en": "Hazaa Abdullah Humaid Al Breiki",
+    "name_ar": "هزاع عبدالله حميد البريكي",
+    "id": 909
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 222520130052,
+    "name_en": "Hazaa Abdullah Said Al Badi",
+    "name_ar": "هزاع عبدالله سعيد البادي",
+    "id": 910
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224020160012,
+    "name_en": "Hazaa Mubarak Mohammed Mubarak Al Jabri",
+    "name_ar": "هزاع مبارك محمد مبارك الجابري",
+    "id": 911
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224220150056,
+    "name_en": "Hazaa Mohammed Nasser Ali Al Badi",
+    "name_ar": "هزاع محمد ناصر علي البادي",
+    "id": 912
+  },
+  {
+    "section": 2,
+    "grade": 10,
+    "student_number": 224620150150,
+    "name_en": "Hilal Khalfan Ali Abdullah Al Breiki",
+    "name_ar": "هلال خلفان علي عبدالله البريكي",
+    "id": 913
+  },
+  {
+    "section": 4,
+    "grade": 9,
+    "student_number": 224620160157,
+    "name_en": "Hilal Naif Hamood Hamed Al Ma'Mari",
+    "name_ar": "هلال نايف حمود حمد المعمري",
+    "id": 914
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224020140113,
+    "name_en": "Hood Badar Humaid Al Mamari",
+    "name_ar": "هود بدر حميد المعمري",
+    "id": 915
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224220130066,
+    "name_en": "Houd Said Marhoun Said Al Saidi",
+    "name_ar": "هود سعيد مرهون سعيد السعيدي",
+    "id": 916
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224320150113,
+    "name_en": "Hood Hilal Hamed Saif Al Shidi",
+    "name_ar": "هود هلال حمد سيف الشيدي",
+    "id": 917
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 20920150028,
+    "name_en": "Haytham Ahmed 'Abdallah Rashid Al-Breiki",
+    "name_ar": "هيثم أحمد عبدالله راشد البريكي",
+    "id": 918
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224020130015,
+    "name_en": "Haitham Rashid Ali Al Quraini",
+    "name_ar": "هيثم راشد علي القريني",
+    "id": 919
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 27520130035,
+    "name_en": "Haytham Salim Abdullah Al Fazari",
+    "name_ar": "هيثم سالم عبدالله الفزاري",
+    "id": 920
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224020130104,
+    "name_en": "Haitham Abdullah Khasib Hamed Al Quraini",
+    "name_ar": "هيثم عبدالله خصيب حمد القريني",
+    "id": 921
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224620110107,
+    "name_en": "Haytham Mattar Salim Al-Badi",
+    "name_ar": "هيثم مطر سالم البادي",
+    "id": 922
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224620130062,
+    "name_en": "Waeel Salim Hamed Al Mahrezi",
+    "name_ar": "وائل سالم حمد المحرزي",
+    "id": 923
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 29620140033,
+    "name_en": "Wesam Salman Mohammed Hashil Al Rusheidi",
+    "name_ar": "وسام سلمان محمد هاشل الرشيدي",
+    "id": 924
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 221820150050,
+    "name_en": "Waleed Saheem Khadeem Juma Al-Kahali",
+    "name_ar": "وليد سهيم خديم جمعه الكحالي",
+    "id": 925
+  },
+  {
+    "section": 1,
+    "grade": 11,
+    "student_number": 224020140037,
+    "name_en": "Yaser Salim Mohammed Al Zaabi",
+    "name_ar": "ياسر سالم محمد الزعابي",
+    "id": 926
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 20920120217,
+    "name_en": "Yasir Ammar Khalifa Al Saeedi",
+    "name_ar": "ياسر عمّار خليفه السعيدي",
+    "id": 927
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 224620140008,
+    "name_en": "Yaseen Khalfan Ali Al Shibli",
+    "name_ar": "ياسين خلفان علي الشبلي",
+    "id": 928
+  },
+  {
+    "section": 6,
+    "grade": 10,
+    "student_number": 224620170207,
+    "name_en": "Yaseen Said Ali Mohammed Al Fazari",
+    "name_ar": "ياسين سعيد علي محمد الفزاري",
+    "id": 929
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 23520120103,
+    "name_en": "Yaseen Abdullah Ali Al Fazari",
+    "name_ar": "ياسين عبدالله علي الفزاري",
+    "id": 930
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160031,
+    "name_en": "Yahya Salim Juma Rashid Al Buraiki",
+    "name_ar": "يحيى سالم جمعه راشد البريكي",
+    "id": 931
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224620130033,
+    "name_en": "Yahya Sulaiman Mohammed Al Fazari",
+    "name_ar": "يحيى سليمان محمد الفزاري",
+    "id": 932
+  },
+  {
+    "section": 5,
+    "grade": 12,
+    "student_number": 224020130006,
+    "name_en": "Yahiya Ali Abdullah Al Baraiki",
+    "name_ar": "يحيى علي عبدالله البريكي",
+    "id": 933
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 20920160004,
+    "name_en": "Yahya Yousuf Saif Mohammed Al Ma'Mari",
+    "name_ar": "يحيى يوسف سيف محمد المعمري",
+    "id": 934
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 28820130001,
+    "name_en": "Yazed Said Abdullah Salim Al Saidi",
+    "name_ar": "يزيد سعيد عبدالله سالم السعيدي",
+    "id": 935
+  },
+  {
+    "section": 1,
+    "grade": 12,
+    "student_number": 224020130062,
+    "name_en": "Yarub Sultan Zayid Al Mamari",
+    "name_ar": "يعرب سلطان زايد المعمري",
+    "id": 936
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 20920140042,
+    "name_en": "Yaqoob Khalfan Said Al Breiki",
+    "name_ar": "يعقوب خلفان سعيد البريكي",
+    "id": 937
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224220140149,
+    "name_en": "Yaqub Qasim Mubarak Rashid Al Abdul Salaam",
+    "name_ar": "يعقوب قاسم مبارك راشد آل عبدالسلام",
+    "id": 938
+  },
+  {
+    "section": 6,
+    "grade": 11,
+    "student_number": 224020140019,
+    "name_en": "Yaqoob Yousuf Saif Al Mamari",
+    "name_ar": "يعقوب يوسف سيف المعمري",
+    "id": 939
+  },
+  {
+    "section": 3,
+    "grade": 11,
+    "student_number": 224520140013,
+    "name_en": "Yaqoob Yousuf Abdullah Al Ali",
+    "name_ar": "يعقوب يوسف عبدالله العلي",
+    "id": 940
+  },
+  {
+    "section": 7,
+    "grade": 11,
+    "student_number": 224220140107,
+    "name_en": "Yaqoub Yousuf Abdullah Al Farsi",
+    "name_ar": "يعقوب يوسف عبدالله الفارسي",
+    "id": 941
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160057,
+    "name_en": "Yaqoob Yousuf Mohammed Said Al Fazari",
+    "name_ar": "يعقوب يوسف محمد سعيد الفزاري",
+    "id": 942
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224220160099,
+    "name_en": "Yousuf Juma Zayid 'Obaid Al Khaldi",
+    "name_ar": "يوسف جمعه زايد عبيد الخالدي",
+    "id": 943
+  },
+  {
+    "section": 8,
+    "grade": 10,
+    "student_number": 215720150051,
+    "name_en": "Yousif Hassan Abdullah Ibrahim Al Fazari",
+    "name_ar": "يوسف حسن عبدالله ابراهيم الفزاري",
+    "id": 944
+  },
+  {
+    "section": 1,
+    "grade": 10,
+    "student_number": 224620150036,
+    "name_en": "Yousuf Khalifa Rashid Ali Al Saidi",
+    "name_ar": "يوسف خليفه راشد علي السعيدي",
+    "id": 945
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224620140092,
+    "name_en": "Yoosef Khamis Amur Al Badi",
+    "name_ar": "يوسف خميس عامر البادي",
+    "id": 946
+  },
+  {
+    "section": 2,
+    "grade": 9,
+    "student_number": 224620160043,
+    "name_en": "Yousuf Khamis Issa Abdullah Al Mahairazi",
+    "name_ar": "يوسف خميس عيسى عبدالله المحيرزي",
+    "id": 947
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 224220140130,
+    "name_en": "Yosuf Rashid Saif Sulaiman Alsaidi",
+    "name_ar": "يوسف راشد سيف سليمان السعيدي",
+    "id": 948
+  },
+  {
+    "section": 4,
+    "grade": 12,
+    "student_number": 224520110019,
+    "name_en": "Yusef Salim Dhiban Al Fazari",
+    "name_ar": "يوسف سالم ذيبان الفزاري",
+    "id": 949
+  },
+  {
+    "section": 4,
+    "grade": 11,
+    "student_number": 224020140086,
+    "name_en": "Yousuf Said Salim Al Breiki",
+    "name_ar": "يوسف سعيد سالم البريكي",
+    "id": 950
+  },
+  {
+    "section": 2,
+    "grade": 11,
+    "student_number": 224020140075,
+    "name_en": "Yousuf Sulaiman Mubarak Al Breiki",
+    "name_ar": "يوسف سليمان مبارك البريكي",
+    "id": 951
+  },
+  {
+    "section": 6,
+    "grade": 12,
+    "student_number": 224520130004,
+    "name_en": "Yousaf Abdullah Khalfan Al Fazari",
+    "name_ar": "يوسف عبدالله خلفان الفزاري",
+    "id": 952
+  },
+  {
+    "section": 7,
+    "grade": 9,
+    "student_number": 224020160125,
+    "name_en": "Yusef Abdullah Khalfan Shinain Al Buraiki",
+    "name_ar": "يوسف عبدالله خلفان شنين البريكي",
+    "id": 953
+  },
+  {
+    "section": 3,
+    "grade": 12,
+    "student_number": 20920130127,
+    "name_en": "Yousuf Abdullah Nasser Alsaidi",
+    "name_ar": "يوسف عبدالله ناصر السعيدي",
+    "id": 954
+  },
+  {
+    "section": 7,
+    "grade": 10,
+    "student_number": 224320150012,
+    "name_en": "Yousuf Ali Humaid Abdullah Al Balushi",
+    "name_ar": "يوسف علي حميد عبدالله البلوشي",
+    "id": 955
+  },
+  {
+    "section": 3,
+    "grade": 9,
+    "student_number": 224220160087,
+    "name_en": "Yousuf Ali Rashid Humaid Al Waheibi",
+    "name_ar": "يوسف علي راشد حميد الوهيبي",
+    "id": 956
+  },
+  {
+    "section": 4,
+    "grade": 10,
+    "student_number": 223920140158,
+    "name_en": "Yusef Mohammed Rashid Al Balushi",
+    "name_ar": "يوسف محمد راشد البلوشي",
+    "id": 957
+  },
+  {
+    "section": 1,
+    "grade": 9,
+    "student_number": 28720140027,
+    "name_en": "Yousuf Mohammed Salim Mohammed Al Breiki",
+    "name_ar": "يوسف محمد سالم محمد البريكي",
+    "id": 958
+  },
+  {
+    "section": 3,
+    "grade": 10,
+    "student_number": 20920140105,
+    "name_en": "Younes Khalifa Shwain Alsaidi",
+    "name_ar": "يونس خليفه شوين السعيدي",
+    "id": 959
+  },
+  {
+    "section": 5,
+    "grade": 11,
+    "student_number": 28820140042,
+    "name_en": "Younis Ali Hamood Saif Al-Saaidi",
+    "name_ar": "يونس علي حمود سيف السعيدي",
+    "id": 960
+  }
+]
