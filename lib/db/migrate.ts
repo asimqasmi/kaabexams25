@@ -8,12 +8,12 @@ import { migrate } from "drizzle-orm/libsql/migrator";
 const config =
   env.NODE_ENV === "development"
     ? {
-        url: env.DATABASE_URL,
-      }
+      url: env.DATABASE_URL!,
+    }
     : {
-        url: env.TURSO_DATABASE_URL!,
-        authToken: env.TURSO_AUTH_TOKEN,
-      };
+      url: env.TURSO_DATABASE_URL!,
+      authToken: env.TURSO_AUTH_TOKEN,
+    };
 
 const runMigrate = async () => {
   if (!env.DATABASE_URL) {

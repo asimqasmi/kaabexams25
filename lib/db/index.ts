@@ -7,7 +7,7 @@ import { env } from "@/lib/env.mjs";
 const config =
   env.NODE_ENV === "development"
     ? {
-      url: env.DATABASE_URL,
+      url: env.DATABASE_URL!,
     }
     : {
       url: env.TURSO_DATABASE_URL,

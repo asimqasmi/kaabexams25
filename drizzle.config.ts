@@ -5,7 +5,7 @@ import { env } from "@/lib/env.mjs";
 const dbCredentials =
   env.NODE_ENV === "development"
     ? {
-      url: env.DATABASE_URL,
+      url: env.DATABASE_URL!,
     }
     : {
       url: env.TURSO_DATABASE_URL,
@@ -16,7 +16,7 @@ export default defineConfig({
   out: "./lib/db/migrations",
   schema: "./lib/db/schema",
   dialect: env.NODE_ENV === "development" ? "sqlite" : "turso",
-  // dialect: "turso",
   // dialect: "sqlite",
+  // dialect: "turso",
   dbCredentials,
 });
