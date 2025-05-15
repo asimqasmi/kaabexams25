@@ -26,6 +26,11 @@ export const additionalLinks: AdditionalLinks[] = [
         title: "Teachers",
         icon: UserSquare,
       },
+      {
+        href: "/users",
+        title: "Users",
+        icon: UserSquare,
+      },
     ],
   },
 ];

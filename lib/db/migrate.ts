@@ -5,22 +5,14 @@ import { createClient } from "@libsql/client";
 import { drizzle } from "drizzle-orm/libsql";
 import { migrate } from "drizzle-orm/libsql/migrator";
 
-const config =
-  env.NODE_ENV === "development"
-    ? {
-      url: env.DATABASE_URL!,
-    }
-    : {
-      url: env.TURSO_DATABASE_URL!,
-      authToken: env.TURSO_AUTH_TOKEN,
-    };
-
 const runMigrate = async () => {
   if (!env.DATABASE_URL) {
     throw new Error("DATABASE_URL is not defined");
   }
 
-  const client = createClient(config);
+  const client = createClient({
+    url: env.DATABASE_URL!,
+  });
   const db = drizzle(client);
 
   console.log("⏳ Running migrations...");
